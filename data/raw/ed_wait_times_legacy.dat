@@ -1,0 +1,1443 @@
+Peterborough Regional                        East        Large Community   9/2024    LOS_HIGH_URGENCY  6.02    1690    95.0    8.0   
+Peterborough Regional Health Centre          East        Large Community   2025-05   LOS_HIGH_URGENCY  6.77    1689    89.1    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          6/2025    WT_PHYS_ASSESS    1.79    3552    85.9    2.0   
+RVH Barrie                                   Central     Large Community   2025-06-01LOS_ADMITTED      16.51   864     26.7    8.0   
+St Michaels Hospital                         Toronto     Teaching          9/2024    LOS_LOW_URGENCY   -1.0    3211    95.0    4.0   
+St. Michael's Hospital                       Toronto     Teaching          2025-05   WT_PHYS_ASSESS    2.79    4653    65.3    2.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          7/2025    WT_PHYS_ASSESS    2.39    4333    74.3    2.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-09-01WT_PHYS_ASSESS    2.42    4589    68.9    2.0   
+Lakeridge Oshawa                             CENTRAL     Large Community   3/2025    WT_PHYS_ASSESS    1.82    4793    87.1    2.0   
+Hamilton General                             West        Teaching          2025-06-01LOS_HIGH_URGENCY  6.73    1481    93.3    8.0   
+Kingston General Hospital                    East        Teaching          8/2024    LOS_LOW_URGENCY   5.38    2892    63.0    4.0   
+Sudbury Regional Hospital                    North       Teaching          2025-06-01LOS_ADMITTED      16.19   850     28.8    8.0   
+Peterborough Regional                        East        Large Community   11/2025   WT_PHYS_ASSESS    2.34    4778    71.4    2.0   
+St Michaels Hospital                         Toronto     Teaching          2025-02-01LOS_HIGH_URGENCY  10.1    1905    72.4    8.0   
+UHN - Toronto General                        Toronto     Teaching          2025-12   LOS_HIGH_URGENCY  9.25    2552    76.0    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-09   LOS_LOW_URGENCY   5.97    3306    58.4    4.0   
+WRH Ouellette                                West        Large Community   2024-07-01WT_PHYS_ASSESS    1.68    4071    93.5    2.0   
+Grand River Hosp                             West        Large Community   2025-04-01WT_PHYS_ASSESS    1.87    3385    86.1    2.0   
+SHN General                                  Toronto     Large Community   2024-09-01LOS_HIGH_URGENCY  6.93    2354    87.5    8.0   
+LHSC Victoria                                West        Teaching          2025-12-01LOS_HIGH_URGENCY  8.68    2292    82.2    8.0   
+Grand River Hosp                             West        Large Community   2025-05-01LOS_LOW_URGENCY   5.72    2740    58.4    4.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-06-01LOS_HIGH_URGENCY  7.43    1784    87.2    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-12-01LOS_LOW_URGENCY   5.28    3793    69.8    4.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-07-01LOS_HIGH_URGENCY  7.79    2069    85.4    8.0   
+GRH Kitchener                                West        Large Community   202502    LOS_ADMITTED      15.29   857     36.1    8.0   
+Oshawa General                               Central     Large Community   202507    LOS_ADMITTED      15.45   1064    35.4%   8.0   
+NYGH                                         Toronto     Large Community   9/2024    LOS_HIGH_URGENCY  8.13    1904    81.0    8.0   
+Mississauga Hospital                         Central     Large Community   12/2025   WT_PHYS_ASSESS    2.15    4595    81.2    2.0   
+THP Mississauga                              Central     Large Community   2024-07   LOS_HIGH_URGENCY  6.29    1694    95.0    8.0   
+Scarborough General                          Toronto     Large Community   12/2024   LOS_LOW_URGENCY   -1.0    3344    95.0    4.0   
+THP Mississauga                              Central     Large Community   2024-09-01WT_PHYS_ASSESS    1.82    4042    88.6    2.0   
+William Osler Health System - Brampton Civic Central     Large Community   202507    LOS_HIGH_URGENCY  5.65    2095    95.0    8.0   
+Hamilton General                             West        Teaching          2025-02-01LOS_ADMITTED              1240    41.9    8.0   
+TBRHSC                                       North       Teaching          2025-07-01LOS_LOW_URGENCY   4.63    2920    77.2    4.0   
+Niagara Health - St. Catharines              West        Large Community   7/2024    LOS_LOW_URGENCY   4.04    3283    79.4    4.0   
+Brampton Civic Hospital                      Central     Large Community   8/2025    LOS_ADMITTED      13.01   761     48.9    8.0   
+NYGH                                         Toronto     Large Community   2025-11   LOS_ADMITTED      14.64   743     36.6    8.0   
+SHN General                                  Toronto     Large Community   2024-09   WT_PHYS_ASSESS    1.99    3736    83.6    2.0   
+Lakeridge Oshawa                             Central     Large Community   2025-06   LOS_HIGH_URGENCY  6.74    1704    91.9    8.0   
+North York General Hospital                  Toronto     Large Community   2024-11   LOS_HIGH_URGENCY  7.42    1524    84.4    8.0   
+Scarborough General                          Toronto     Large Community   2025-12-01WT_PHYS_ASSESS    2.83    5775    62.2%   2.0   
+Sudbury Regional Hospital                    North       Teaching          11/2024   LOS_HIGH_URGENCY  8.27    2090    85.3    8.0   
+GRH Kitchener                                West        Large Community   2025-02-01LOS_HIGH_URGENCY  7.19    2044    88.4    8.0   
+North York General Hospital                  Toronto     Large Community   2025-09-01LOS_ADMITTED      16.7    1073    25.0    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-10-01LOS_ADMITTED      15.74   881     34.0    8.0   
+Peterborough Regional                        East        Large Community   202507    WT_PHYS_ASSESS    1.88    3793    88.9    2.0   
+Toronto General Hospital                     Toronto     Teaching          2025-12-01LOS_ADMITTED      21.09   1125    25.0    8.0   
+North York General Hospital                  Toronto     Large Community   2025-09-01LOS_LOW_URGENCY   4.53    3449    75.1    4.0   
+Brampton Civic Hospital                      Central     Large Community   11/2024   WT_PHYS_ASSESS    1.94    4388    84.5    2.0   
+Peterborough Regional                        East        Large Community   202410    WT_PHYS_ASSESS    1.81    4139    88.3    2.0   
+LHSC Victoria                                West        Teaching          7/2024    WT_PHYS_ASSESS    1.93    4176    82.9    2.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-08   WT_PHYS_ASSESS    2.3     4732    79.0    2.0   
+NYGH                                         Toronto     Large Community   5/2025    LOS_LOW_URGENCY   4.65    2953    71.4    4.0   
+PRHC                                         East        Large Community   2025-08-01LOS_LOW_URGENCY   4.27    2791    78.1    4.0   
+Markham Stouffville Hospital                 Central     Large Community   2024-08   WT_PHYS_ASSESS    2.39    3423    69.9    2.0   
+Lakeridge Health - Oshawa                    Central     Large Community   202501    WT_PHYS_ASSESS    2.64    5788    68.4    2.0   
+Hamilton General                             West        Teaching          2025-01-01WT_PHYS_ASSESS    2.27    5076    77.7    2.0   
+Kingston Health Sciences Centre              East        Teaching          2025-12-01LOS_ADMITTED      18.6    1224    25.0    8.0   
+Hamilton General                             West        Teaching          2025-06-01WT_PHYS_ASSESS            3354    85.0    2.0   
+Oshawa General                               Central     Large Community   202508    LOS_HIGH_URGENCY  6.36    1690    91.1    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-01-01WT_PHYS_ASSESS    2.45    5110    71.9    2.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-01   LOS_HIGH_URGENCY  6.99    2203    88.1    8.0   
+Toronto General Hospital                     Toronto     Teaching          2025-01-01LOS_ADMITTED      18.78   1110            8.0   
+Peterborough Regional Health Centre          East        Large Community   11/2024   LOS_ADMITTED      12.6    749     50.0    8.0   
+Health Sciences North                        North       Teaching          202501    LOS_ADMITTED      15.84   1256    27.5    8.0   
+SUNNYBROOK                                   Toronto     Teaching          2024-07   LOS_LOW_URGENCY   5.48    2926    60.5    4.0   
+London Victoria Hospital                     West        Teaching          2025-09   LOS_ADMITTED      13.52   851     42.5    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-06   LOS_HIGH_URGENCY  7.19    2058    87.0    8.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-01   LOS_ADMITTED      17.74   839     25.0    8.0   
+Grand River Hosp                             West        Large Community   202412    LOS_LOW_URGENCY   5.29    3577    63.4    4.0   
+RVH Barrie                                   Central     Large Community   2025-12-01LOS_HIGH_URGENCY  6.56    2243    92.9    8.0   
+TOH Civic                                    East        Teaching          2025-05-01LOS_LOW_URGENCY   6.07    3365    58.2    4.0   
+Grand River Hospital                         West        Large Community   2025-09-01LOS_HIGH_URGENCY  6.96    1939            8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202508    WT_PHYS_ASSESS    1.98    4970            2.0   
+North York General                           Toronto     Large Community   202411    LOS_ADMITTED      14.21   775     43.9    8.0   
+HSN Sudbury                                  North       Teaching          2025-07   LOS_HIGH_URGENCY  7.47    2176            8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2024-08-01LOS_ADMITTED      15.84   948     26.5    8.0   
+Scarborough General                          TORONTO     Large Community   2025-12-01LOS_LOW_URGENCY   5.58    3438    59.7    4.0   
+Markham Stouffville                          Central     Large Community   202511    LOS_ADMITTED      16.47   844     25.8    8.0   
+Kingston Health Sciences Centre              East        Teaching          2025-08-01LOS_ADMITTED              866     38.9    8.0   
+Royal Victoria Barrie                        Central     Large Community   2024-07   LOS_LOW_URGENCY   4.34    2582    77.3    4.0   
+THP Mississauga                              Central     Large Community   2025-04-01LOS_HIGH_URGENCY  5.93    2286    95.0    8.0   
+Osler Brampton Civic                         Central     Large Community   2025-11-01LOS_ADMITTED      14.55   753     41.9    8.0   
+Royal Victoria Barrie                        Central     Large Community   2025-09   LOS_HIGH_URGENCY  6.58    1635    90.8    8.0   
+Lakeridge Oshawa                             Central     Large Community   2024-10   LOS_HIGH_URGENCY  7.58    1715    85.0    8.0   
+NYGH                                         Toronto     Large Community   2024-09-01WT_PHYS_ASSESS    2.18    3724    82.3    2.0   
+Grand River Hosp                             West        Large Community   6/2025    LOS_HIGH_URGENCY  5.89    1797    95.0    8.0   
+Peterborough Regional Health Centre          East        Large Community   202507    LOS_HIGH_URGENCY  6.94    2206    89.7    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2024-08-01WT_PHYS_ASSESS    2.24    3431    77.8    2.0   
+NYGH                                         Toronto     Large Community   2024-12-01LOS_ADMITTED      17.64   1087    25.0    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202511    LOS_HIGH_URGENCY  7.2     2213    88.4    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-08-01LOS_LOW_URGENCY   4.83    3147    71.3    4.0   
+Lakeridge Oshawa                             Central     Large Community   2024-11-01LOS_HIGH_URGENCY  5.96    1796    95.0%   8.0   
+The Ottawa Hospital Civic                    East        Teaching          2024-11-01LOS_LOW_URGENCY   4.87    2348    73.4    4.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-12   LOS_ADMITTED      21.32   960     25.0    8.0   
+Oshawa General                               Central     Large Community   2024-08   LOS_ADMITTED      13.68   939     47.9    8.0   
+Kingston Health Sciences Centre              East        Teaching          2024-12   WT_PHYS_ASSESS    2.37    5499    74.0    2.0   
+TOH Civic                                    East        Teaching          11/2024   WT_PHYS_ASSESS    1.86    4064    91.3    2.0   
+Lakeridge Health - Oshawa                    Central     Large Community   2024-12   LOS_ADMITTED      16.47   894     25.0%   8.0   
+TBRHSC                                       North       Teaching          6/2025    LOS_LOW_URGENCY   5.48    3112    63.2    4.0   
+Royal Victoria Barrie                        Central     Large Community   202509    LOS_LOW_URGENCY   4.47    3203    78.5    4.0   
+North York General                           Toronto     Large Community   202510    LOS_HIGH_URGENCY  7.99    1639    86.9    8.0   
+Peterborough Regional                        East        Large Community   12/2025   los_low_urgency   5.58    3060    61.0    4.0   
+Oshawa General                               Central     Large Community   4/2025    WT_PHYS_ASSESS    1.87    4092    89.0    2.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2024-10   LOS_LOW_URGENCY   -1.0    3145    95.0    4.0   
+UHN - Toronto General                        Toronto     Teaching          2025-08-01WT_PHYS_ASSESS    2.58    3723    65.8    2.0   
+Grand River Hospital                         West        Large Community   2024-07   LOS_LOW_URGENCY   5.08    2530    70.7    4.0   
+Royal Victoria Barrie                        Central     Large Community   202508    LOS_LOW_URGENCY   5.45    3219    64.3    4.0   
+Lakeridge Oshawa                             Central     Large Community   10/2025   LOS_HIGH_URGENCY  7.95    1834    84.3    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-03   LOS_HIGH_URGENCY  7.88    1796    87.1    8.0   
+Mississauga Hospital                         Central     Large Community   2024-10-01LOS_ADMITTED      14.49   785     35.4    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2024-11-01WT_PHYS_ASSESS    2.32    4502    77.7    2.0   
+Sunnybrook HSC                               Toronto     Teaching          2024-11-01WT_PHYS_ASSESS    2.82    3474    62.6    2.0   
+Oak Valley Health - Markham                  Central     Large Community   9/2024    LOS_ADMITTED      13.03   942     51.7%   8.0   
+NYGH                                         Toronto     Large Community   202509    LOS_HIGH_URGENCY  8.47    2142    80.2    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-11   LOS_LOW_URGENCY   5.86    2720    61.9    4.0   
+Mississauga Hospital                         Central     Large Community   2025-06-01LOS_ADMITTED      14.6    1057    37.4    8.0   
+Scarborough Health Network - General         Toronto     Large Community   10/2025   los_low_urgency   -1.0    2730    95.0    4.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-03   WT_PHYS_ASSESS    2.31    3500    71.5    2.0   
+Markham Stouffville Hospital                 Central     Large Community   11/2024   LOS_LOW_URGENCY   4.93    2324    72.3    4.0   
+William Osler Health System - Brampton Civic Central     Large Community   202512    LOS_ADMITTED      16.7    1233    25.0    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-04-01LOS_HIGH_URGENCY          1522    95.0    8.0   
+NYGH                                         Toronto     Large Community   2024-08-01LOS_LOW_URGENCY   4.28    2341    83.6    4.0   
+NYGH                                         Toronto     Large Community   7/2024    LOS_LOW_URGENCY   5.31    2161    61.8    4.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2024-07-01WT_PHYS_ASSESS    2.2     3442    76.6    2.0   
+William Osler Health System - Brampton Civic Central     Large Community   9/2024    LOS_ADMITTED      13.39   1063    49.1    8.0   
+WRH Ouellette                                West        Large Community   202504    WT_PHYS_ASSESS    1.81    3546    89.3    2.0   
+Royal Victoria Barrie                        Central     Large Community   2025-10-01WT_PHYS_ASSESS    1.95    4217    83.4    2.0   
+HHS General Site                             West        Teaching          2024-09-01LOS_HIGH_URGENCY  7.34    2364    90.9    8.0   
+HHS General Site                             West        Teaching          12/2025   LOS_LOW_URGENCY   6.28    3375    51.1    4.0   
+Oak Valley Health - Markham                  Central     Large Community   12/2024   LOS_LOW_URGENCY   5.45    2901    64.8%   4.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-11-01WT_PHYS_ASSESS    2.46    4062    73.9    2.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202512    LOS_ADMITTED      18.9    902     25.0    8.0   
+TOH Civic                                    East        Teaching          202410    WT_PHYS_ASSESS    2.32    4685    72.7    2.0   
+Lakeridge Health - Oshawa                    CENTRAL     Large Community   202508    WT_PHYS_ASSESS    2.34    4439    74.6    2.0   
+Mississauga Hospital                         Central     Large Community   2025-02-01LOS_ADMITTED      16.74   1031    25.0    8.0   
+THP Mississauga                              Central     Large Community   2/2025    LOS_HIGH_URGENCY  7.54    2250    86.6    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-02-01LOS_ADMITTED      15.73   1048    31.0    8.0   
+GRH Kitchener                                West        Large Community   2024-11   LOS_HIGH_URGENCY  6.93    2369    94.2    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-02-01LOS_HIGH_URGENCY  8.44    1794    79.0    8.0   
+Windsor Ouellette Campus                     West        Large Community   2025-10   WT_PHYS_ASSESS    2.24    4120    78.8    2.0   
+Hamilton General                             West        Teaching          8/2025    LOS_HIGH_URGENCY  7.48    1971    86.5    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202511    LOS_ADMITTED      17.48   961     25.0    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   2025-09   LOS_LOW_URGENCY   5.91    3042    53.5    4.0   
+Hamilton General                             West        Teaching          202510    WT_PHYS_ASSESS    2.29    3526    74.6    2.0   
+Peterborough Regional Health Centre          East        Large Community   202509    LOS_HIGH_URGENCY  7.18    2252    87.5    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-10-01LOS_HIGH_URGENCY  8.39    2180    83.5    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   202511    LOS_LOW_URGENCY   4.63    3136    73.7    4.0   
+Markham Stouffville Hospital                 CENTRAL     Large Community   2024-10   LOS_LOW_URGENCY   4.37    3039    77.6    4.0   
+Hamilton General                             West        Teaching          2024-09-01LOS_LOW_URGENCY   5.62    2666    63.0    4.0   
+Lakeridge Health - Oshawa                    Central     Large Community   6/2025    LOS_LOW_URGENCY   5.25    3075    67.1    4.0   
+Sudbury Regional Hospital                    North       Teaching          8/2025    WT_PHYS_ASSESS    1.86    4811    85.3    2.0   
+Niagara Health - St. Catharines              West        Large Community   2025-05   LOS_ADMITTED      15.16   1050    32.3    8.0   
+WRH Ouellette                                West        Large Community   202511    LOS_ADMITTED      15.34   760     29.8    8.0   
+HHS General Site                             West        Teaching          2024-10   LOS_ADMITTED      16.88   1012    25.0    8.0   
+Lakeridge Health - Oshawa                    Central     Large Community   9/2024    LOS_HIGH_URGENCY  7.48    1584    86.2    8.0   
+North York General                           Toronto     Large Community   202507    WT_PHYS_ASSESS    2.24    3523    78.4    2.0   
+Lakeridge Oshawa                             Central     Large Community   11/2024   LOS_LOW_URGENCY   5.97    2932    55.9    4.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2024-11-01LOS_ADMITTED      14.07   793     40.6    8.0   
+RVH Barrie                                   Central     Large Community   11/2024   WT_PHYS_ASSESS    2.31    3650            2.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2024-10-01LOS_LOW_URGENCY   6.37    2501    53.2    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          8/2024    WT_PHYS_ASSESS    2.5     3303    69.6    2.0   
+Markham Stouffville                          Central     Large Community   2024-11   LOS_HIGH_URGENCY  7.23    2359    85.8    8.0   
+NYGH                                         Toronto     Large Community   2/2025    LOS_LOW_URGENCY   6.45    2749            4.0   
+GRH Kitchener                                West        Large Community   2024-12-01LOS_HIGH_URGENCY  6.61    1978    95.0    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2/2025    LOS_LOW_URGENCY   6.27    3362    54.1    4.0   
+THP Mississauga                              Central     Large Community   2025-01   LOS_HIGH_URGENCY  6.79    2348    92.3    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          202512    WT_PHYS_ASSESS    2.25    4378    78.4    2.0   
+Scarborough Health Network - General         Toronto     Large Community   7/2025    LOS_LOW_URGENCY   4.53    2682    78.7    4.0   
+TOH Civic                                    East        Teaching          10/2025   LOS_ADMITTED      15.25   1020    36.8    8.0   
+SHN General                                  Toronto     Large Community   10/2024   LOS_LOW_URGENCY   5.19    2901    67.0    4.0   
+PRHC                                         East        Large Community   4/2025    LOS_LOW_URGENCY   4.48    3477    79.9    4.0   
+LHSC Victoria                                West        Teaching          2025-09-01LOS_HIGH_URGENCY  7.2     1673    88.3    8.0   
+Niagara Health SCS                           West        Large Community   202504    WT_PHYS_ASSESS    2.2     3548    78.4    2.0   
+Brampton Civic Hospital                      Central     Large Community   202408    LOS_ADMITTED      13.82   784     39.8    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-11   WT_PHYS_ASSESS    2.11    4102    79.8    2.0   
+North York General Hospital                  Toronto     Large Community   202504    LOS_LOW_URGENCY   5.72    2622    57.6    4.0   
+Oshawa General                               Central     Large Community   2025-03-01LOS_HIGH_URGENCY          1859    92.1    8.0   
+RVH Barrie                                   Central     Large Community   2024-12   LOS_HIGH_URGENCY  8.07    2533    79.8    8.0   
+Royal Victoria Barrie                        Central     Large Community   2025-05-01LOS_ADMITTED      17.27   1106    25.0    8.0   
+Osler Brampton Civic                         Central     Large Community   2025-03-01los_admitted      17.82   1036    25.0    8.0   
+Health Sciences North                        NORTH       Teaching          2025-09-01LOS_LOW_URGENCY   4.95    2905    67.3    4.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-06-01LOS_ADMITTED      15.92   750     25.4    8.0   
+NYGH                                         Toronto     Large Community   4/2025    WT_PHYS_ASSESS    2.22    5189    80.9    2.0   
+St. Michael's Hospital                       Toronto     Teaching          202511    LOS_LOW_URGENCY   6.82    2369    44.3    4.0   
+Lakeridge Oshawa                             Central     Large Community   2024-07   LOS_ADMITTED              924             8.0   
+Oshawa General                               Central     Large Community   9/2024    LOS_ADMITTED              859     38.9    8.0   
+GRH Kitchener                                West        Large Community   2025-09   LOS_LOW_URGENCY   4.14    2586    79.8    4.0   
+Sudbury Regional Hospital                    North       Teaching          3/2025    LOS_LOW_URGENCY   4.89    2809    73.6    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202503    LOS_HIGH_URGENCY  8.71    1664    82.5    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   2025-04   WT_PHYS_ASSESS    2.0     3663    81.1    2.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   11/2024   WT_PHYS_ASSESS    2.39    4049    73.8    2.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          202505    WT_PHYS_ASSESS    2.58    5072    68.2    2.0   
+HSN Sudbury                                  North       Teaching          202408    LOS_LOW_URGENCY   5.07    2243            4.0   
+Kingston General Hospital                    East        Teaching          2025-12-01LOS_HIGH_URGENCY  9.05    1851    77.9    8.0   
+NYGH                                         Toronto     Large Community   11/2025   LOS_LOW_URGENCY   5.85    2936    59.7    4.0   
+HHS General Site                             WEST        Teaching          2024-08-01LOS_ADMITTED      16.69   723     25.0    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   202507    WT_PHYS_ASSESS    2.18    4676    77.8    2.0   
+Royal Victoria Regional Health Centre        Central     Large Community   4/2025    WT_PHYS_ASSESS    2.25    4193    73.6    2.0   
+Grand River Hospital                         West        Large Community   2025-11-01LOS_ADMITTED      15.55   924     29.7    8.0   
+Lakeridge Oshawa                             Central     Large Community   2024-08   LOS_HIGH_URGENCY  6.05    1514    95.0    8.0   
+UHN - Toronto General                        Toronto     Teaching          202412    wt_phys_assess    2.81    4869    59.5    2.0   
+UHN - Toronto General                        Toronto     Teaching          9/2025    LOS_ADMITTED      17.87   1080    25.0    8.0   
+PRHC                                         East        Large Community   10/2025   LOS_HIGH_URGENCY  7.31    1645    89.5    8.0   
+Health Sciences North                        North       Teaching          2025-08   LOS_LOW_URGENCY   5.27    2257    66.4    4.0   
+William Osler Health System - Brampton Civic Central     Large Community   12/2025   wt_phys_assess    2.55    4292    69.9    2.0   
+Lakeridge Oshawa                             Central     Large Community   2025-11-01LOS_LOW_URGENCY   5.18    2255    70.3    4.0   
+THP Mississauga                              Central     Large Community   5/2025    LOS_LOW_URGENCY   4.94    3435    73.5    4.0   
+Health Sciences North                        North       Teaching          2025-05-01WT_PHYS_ASSESS    2.22    4535    80.0    2.0   
+Osler Brampton Civic                         Central     Large Community   2025-02   LOS_LOW_URGENCY   5.79    2535    61.2    4.0   
+St Catharines General                        West        Large Community   2025-07-01LOS_HIGH_URGENCY  6.9     1930    88.1    8.0   
+Windsor Ouellette Campus                     West        Large Community   202410    WT_PHYS_ASSESS    2.04    4852    81.4    2.0   
+Niagara Health SCS                           West        Large Community   2/2025    LOS_ADMITTED      17.64   1058            8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   10/2025   LOS_LOW_URGENCY   4.85    2645    67.9    4.0   
+Oak Valley Health - Markham                  Central     Large Community   2024-10   LOS_ADMITTED      17.01   787     25.0    8.0   
+Hamilton Health Sciences - General           West        Teaching          2024-09   LOS_ADMITTED      14.53   925     38.3    8.0   
+Niagara Health - St. Catharines              West        Large Community   8/2024    WT_PHYS_ASSESS    1.88    4280    86.6    2.0   
+SUNNYBROOK                                   Toronto     Teaching          11/2025   WT_PHYS_ASSESS    2.04    3445    81.6    2.0   
+SUNNYBROOK                                   Toronto     Teaching          6/2025    LOS_HIGH_URGENCY  7.31    2088    88.5    8.0   
+SHN General                                  Toronto     Large Community   2024-08   LOS_HIGH_URGENCY  6.93    1570    89.8    8.0   
+TBRHSC                                       North       Teaching          2024-08   LOS_HIGH_URGENCY  8.06    1786    85.5    8.0   
+St Catharines General                        West        Large Community   202501    LOS_HIGH_URGENCY  7.56    2473    86.9    8.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-04-01LOS_ADMITTED      13.03   897     47.7    8.0   
+HHS General Site                             West        Teaching          2024-07   LOS_HIGH_URGENCY  6.13    1657    93.6    8.0   
+TBRHSC                                       North       Teaching          2024-08   LOS_ADMITTED      12.7    806     52.5    8.0   
+HHS General Site                             West        Teaching          202507    WT_PHYS_ASSESS    1.75    4775    88.1    2.0   
+Markham Stouffville                          Central     Large Community   2025-10   LOS_ADMITTED      14.12   1015    44.6    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-11   LOS_ADMITTED      17.38   972     25.0    8.0   
+Hamilton Health Sciences - General           West        Teaching          2025-06   LOS_ADMITTED      14.31   910     40.2    8.0   
+UHN - Toronto General                        Toronto     Teaching          2025-04   LOS_HIGH_URGENCY  6.77    1764    89.1    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   202509    LOS_ADMITTED      14.45   944     35.3    8.0   
+PRHC                                         East        Large Community   2024-12-01WT_PHYS_ASSESS    1.99    5874    81.2    2.0   
+Peterborough Regional                        East        Large Community   10/2025   LOS_ADMITTED      -1.0    1055    95.0    8.0   
+Lakeridge Oshawa                             Central     Large Community   2025-12-01WT_PHYS_ASSESS    2.03    4441    81.7    2.0   
+Windsor Ouellette Campus                     West        Large Community   2025-06   LOS_LOW_URGENCY   4.8     2988    72.9    4.0   
+SUNNYBROOK                                   Toronto     Teaching          202508    LOS_ADMITTED      14.0    983     39.5    8.0   
+Niagara Health - St. Catharines              West        Large Community   2025-11-01LOS_LOW_URGENCY   5.66    3227    60.4    4.0   
+SHN General                                  Toronto     Large Community   202411    LOS_HIGH_URGENCY  7.86    2282    87.6    8.0   
+GRH Kitchener                                West        Large Community   2025-12-01LOS_ADMITTED      18.53   1036    25.0    8.0   
+Brampton Civic Hospital                      Central     Large Community   7/2024    LOS_ADMITTED      12.34   691     53.0    8.0   
+Kingston Health Sciences Centre              East        Teaching          2/2025    LOS_LOW_URGENCY   6.68    3142    43.4    4.0   
+Peterborough Regional                        East        Large Community   12/2024   LOS_ADMITTED      14.56   829     38.8    8.0   
+Peterborough Regional Health Centre          EAST        Large Community   2025-12   WT_PHYS_ASSESS    2.27    5608    78.0    2.0   
+Thunder Bay Regional                         North       Teaching          2024-10-01LOS_ADMITTED      13.56   952     47.5    8.0   
+Toronto General Hospital                     Toronto     Teaching          2025-05-01LOS_ADMITTED      14.74   1107    38.1    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          4/2025    LOS_HIGH_URGENCY  7.36    1752    91.7    8.0   
+TORONTO GENERAL                              Toronto     Teaching          2024-08-01WT_PHYS_ASSESS    2.22    4006    79.1    2.0   
+Markham Stouffville                          CENTRAL     Large Community   5/2025    LOS_ADMITTED      15.0    766     37.0    8.0   
+North York General                           Toronto     Large Community   12/2025   WT_PHYS_ASSESS    2.2     3925    80.5    2.0   
+KHSC                                         East        Teaching          2024-10   LOS_LOW_URGENCY   5.38    2649    61.1    4.0   
+SHN General                                  TORONTO     Large Community   2025-03-01LOS_HIGH_URGENCY  6.8     2268    94.3    8.0   
+North York General Hospital                  Toronto     Large Community   2/2025    WT_PHYS_ASSESS    2.24    4194    73.6    2.0   
+Toronto General Hospital                     Toronto     Teaching          10/2024   LOS_ADMITTED      14.66   984     35.7    8.0   
+Scarborough Health Network - General         TORONTO     Large Community   2024-07   LOS_ADMITTED      14.55   727     36.8    8.0   
+Hamilton General                             West        Teaching          12/2025   LOS_ADMITTED      18.73   885     25.0    8.0   
+St. Michael's Hospital                       Toronto     Teaching          2025-04   LOS_ADMITTED      18.49   753     25.0    8.0   
+St Catharines General                        West        Large Community   202512    LOS_ADMITTED      14.01   1042    40.3    8.0   
+Markham Stouffville Hospital                 Central     Large Community   4/2025    LOS_HIGH_URGENCY  6.61    1887    95.0    8.0   
+St Michaels Hospital                         Toronto     Teaching          2024-12   WT_PHYS_ASSESS    2.58    3898    63.7    2.0   
+HSN Sudbury                                  North       Teaching          202501    LOS_HIGH_URGENCY  7.93    2584    84.9    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   2/2025    WT_PHYS_ASSESS    2.35    5862    75.0    2.0   
+Oak Valley Health - Markham                  Central     Large Community   2024-10-01WT_PHYS_ASSESS            3678    82.4    2.0   
+Hamilton General                             West        Teaching          2025-09-01LOS_LOW_URGENCY   5.47    2569    62.5    4.0   
+Lakeridge Health - Oshawa                    Central     Large Community   2024-12   LOS_LOW_URGENCY   5.45    2783    65.2    4.0   
+Kingston Health Sciences Centre              East        Teaching          8/2025    LOS_LOW_URGENCY   5.17    3295    65.7    4.0   
+St Michaels Hospital                         Toronto     Teaching          2025-01-01WT_PHYS_ASSESS    2.29    5028    74.9    2.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2/2025    LOS_ADMITTED      21.19   979     25.0    8.0   
+Peterborough Regional                        East        Large Community   2024-10   LOS_ADMITTED      12.88   886     48.2    8.0   
+Hamilton Health Sciences - General           West        Teaching          2024-09-01WT_PHYS_ASSESS    2.21    5037    79.5    2.0   
+Markham Stouffville Hospital                 Central     Large Community   202507    WT_PHYS_ASSESS    1.7     4722    91.7    2.0   
+RVH Barrie                                   Central     Large Community   2025-12   LOS_ADMITTED      14.23   896     37.9    8.0   
+North York General Hospital                  Toronto     Large Community   2025-11   WT_PHYS_ASSESS    2.2     3933    74.1    2.0   
+St. Michael's Hospital                       Toronto     Teaching          202506    WT_PHYS_ASSESS    2.04    4469    79.1    2.0   
+Hamilton Health Sciences - General           West        Teaching          2025-02   LOS_LOW_URGENCY   5.64    2847    62.4    4.0   
+Oshawa General                               Central     Large Community   2025-11-01LOS_HIGH_URGENCY  6.94    1929    93.7    8.0   
+Mississauga Hospital                         Central     Large Community   202410    WT_PHYS_ASSESS    2.01    4767    81.1    2.0   
+SUNNYBROOK                                   Toronto     Teaching          9/2025    WT_PHYS_ASSESS    2.46    4112    68.3    2.0   
+Trillium Health Partners - Mississauga       Central     Large Community   2025-12   LOS_ADMITTED      14.71   867     40.3    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   2025-01-01LOS_ADMITTED      17.85   1089    25.0    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-04   LOS_HIGH_URGENCY  7.82    2011    81.8    8.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-01-01LOS_ADMITTED      19.75   1002    25.0    8.0   
+Kingston Health Sciences Centre              East        Teaching          2024-07-01LOS_HIGH_URGENCY  7.73    1619    88.7%   8.0   
+Mississauga Hospital                         Central     Large Community   10/2025   LOS_ADMITTED      17.12   785     25.0    8.0   
+Toronto General Hosp.                        Toronto     Teaching          2025-03   WT_PHYS_ASSESS    2.57    4076            2.0   
+Kingston General Hospital                    East        Teaching          2025-01-01LOS_HIGH_URGENCY  7.55    1870    89.5    8.0   
+Niagara Health - St. Catharines              West        Large Community   2025-10   LOS_ADMITTED      14.2    867     42.4%   8.0   
+Markham Stouffville                          Central     Large Community   202505    WT_PHYS_ASSESS    2.24    4605    80.6%   2.0   
+Hamilton General                             West        Teaching          202411    WT_PHYS_ASSESS    2.31    4630    78.5    2.0   
+Oak Valley Health - Markham                  Central     Large Community   2024-09   LOS_HIGH_URGENCY  7.46    2161    83.5    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-04-01LOS_ADMITTED      14.3    1099    36.5    8.0   
+GRH Kitchener                                West        Large Community   202407    WT_PHYS_ASSESS    2.19    3882    78.6    2.0   
+Lakeridge Health - Oshawa                    Central     Large Community   2025-06   WT_PHYS_ASSESS    2.2     3555    75.9%   2.0   
+NYGH                                         Toronto     Large Community   2025-07-01LOS_HIGH_URGENCY  6.49    1967    95.0    8.0   
+London Victoria Hospital                     West        Teaching          2025-11   WT_PHYS_ASSESS    1.9     3565    87.7    2.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-08   LOS_LOW_URGENCY   5.08    2923    70.1    4.0   
+Peterborough Regional Health Centre          East        Large Community   12/2025   LOS_ADMITTED      14.69   986     35.1    8.0   
+Niagara Health - St. Catharines              West        Large Community   2025-06-01LOS_LOW_URGENCY   4.49    2423    75.8    4.0   
+WRH Ouellette                                West        Large Community   5/2025    LOS_LOW_URGENCY   5.11    3275    65.1    4.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2024-08   WT_PHYS_ASSESS    2.07    3642    82.6    2.0   
+North York General                           Toronto     Large Community   202506    LOS_ADMITTED      17.42   799     25.0    8.0   
+HSN Sudbury                                  North       Teaching          2025-05   LOS_LOW_URGENCY   4.8     2365    75.9    4.0   
+Kingston Health Sciences Centre              East        Teaching          2025-05   LOS_ADMITTED      13.29   967     47.1    8.0   
+HSN Sudbury                                  North       Teaching          2025-05   LOS_HIGH_URGENCY  7.76    1575    82.6    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   2024-12   LOS_LOW_URGENCY   5.09    3109    68.4    4.0   
+SUNNYBROOK                                   Toronto     Teaching          202506    LOS_LOW_URGENCY   4.61    2222    75.9    4.0   
+Brampton Civic Hospital                      Central     Large Community   11/2024   LOS_HIGH_URGENCY  7.09    1741    86.6    8.0   
+RVH Barrie                                   Central     Large Community   2025-08-01WT_PHYS_ASSESS    1.8     4228    90.3    2.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-09   LOS_ADMITTED              972     38.9    8.0   
+Scarborough General                          Toronto     Large Community   202501    WT_PHYS_ASSESS            5848    87.2    2.0   
+Brampton Civic Hospital                      Central     Large Community   2024-12   LOS_ADMITTED      18.31   1197    25.0    8.0   
+TBRHSC                                       North       Teaching          2024-11-01LOS_ADMITTED      16.37   859     28.0    8.0   
+LHSC Victoria                                West        Teaching          2024-12-01LOS_ADMITTED      17.23   940     25.0    8.0   
+SHN General                                  Toronto     Large Community   2025-10   WT_PHYS_ASSESS    1.94    5064    88.7    2.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-08   WT_PHYS_ASSESS    1.88    4538    89.9    2.0   
+Markham Stouffville Hospital                 Central     Large Community   1/2025    LOS_HIGH_URGENCY  7.52    2520    87.2    8.0   
+Peterborough Regional                        East        Large Community   2025-03-01LOS_ADMITTED      15.11   777     35.2    8.0   
+Peterborough Regional                        East        Large Community   8/2024    LOS_LOW_URGENCY   -1.0    2638    95.0    4.0   
+UHN - Toronto General                        Toronto     Teaching          2025-03-01LOS_HIGH_URGENCY  8.59    2095    83.3    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   1/2025    LOS_LOW_URGENCY   6.56    3763    48.6    4.0   
+Markham Stouffville                          Central     Large Community   2024-07-01WT_PHYS_ASSESS    2.16    3828    79.5%   2.0   
+Health Sciences North                        North       Teaching          2025-11-01LOS_ADMITTED      -1.0    754     95.0    8.0   
+Sudbury Regional Hospital                    North       Teaching          2024-07-01LOS_LOW_URGENCY   4.71    3001    73.9    4.0   
+Royal Victoria Regional Health Centre        Central     Large Community   11/2025   LOS_LOW_URGENCY   4.94    2983    74.2    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          6/2025    LOS_HIGH_URGENCY  7.23    1512    89.0    8.0   
+Royal Victoria Barrie                        Central     Large Community   2024-08   LOS_HIGH_URGENCY  6.04    2112    95.0%   8.0   
+Health Sciences North                        North       Teaching          2024-07-01LOS_ADMITTED      -1.0    836     95.0    8.0   
+Brampton Civic Hospital                      CENTRAL     Large Community   6/2025    WT_PHYS_ASSESS    1.79    3308    91.2    2.0   
+SHN General                                  Toronto     Large Community   2025-09   LOS_HIGH_URGENCY  8.55    2181    77.4%   8.0   
+THP Mississauga                              Central     Large Community   2025-03   LOS_ADMITTED      14.57   779     37.6    8.0   
+North York General Hospital                  Toronto     Large Community   202501    LOS_HIGH_URGENCY  7.3     1966    89.5    8.0   
+Oak Valley Health - Markham                  Central     Large Community   202503    LOS_ADMITTED      16.92   795     26.0    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-11   LOS_HIGH_URGENCY  5.81    1557            8.0   
+North York General                           Toronto     Large Community   202506    LOS_LOW_URGENCY   5.17    2800    70.2    4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   2025-10-01LOS_LOW_URGENCY   5.45            64.8    4.0   
+RVH Barrie                                   Central     Large Community   202407    LOS_ADMITTED      12.25   998     51.9    8.0   
+Mississauga Hospital                         Central     Large Community   7/2024    los_low_urgency   4.73    2715    72.3    4.0   
+HSN Sudbury                                  NORTH       Teaching          2025-07-01WT_PHYS_ASSESS    1.83    3557    85.8    2.0   
+London Health Sciences Centre - Victoria     West        Teaching          10/2024   WT_PHYS_ASSESS    2.19    3375    80.4    2.0   
+THP Mississauga                              Central     Large Community   202507    LOS_ADMITTED      14.49   734     40.7    8.0   
+Windsor Ouellette Campus                     West        Large Community   6/2025    LOS_ADMITTED      15.32   970     36.1    8.0   
+Niagara Health - St. Catharines              West        Large Community   202503    LOS_LOW_URGENCY   4.49    3225    79.6    4.0   
+WRH Ouellette                                West        Large Community   2024-07   LOS_ADMITTED      14.88   796     33.7    8.0   
+Brampton Civic Hospital                      Central     Large Community   202411    LOS_LOW_URGENCY   5.55    3348    62.6    4.0   
+Niagara Health - St. Catharines              West        Large Community   2025-08   LOS_HIGH_URGENCY  5.28    2005    95.0    8.0   
+Brampton Civic Hospital                      Central     Large Community   2024-10   LOS_HIGH_URGENCY  6.74    1551    95.0    8.0   
+Peterborough Regional Health Centre          East        Large Community   2025-07-01LOS_ADMITTED      14.41   711     37.5    8.0   
+SHN General                                  Toronto     Large Community   2025-08-01LOS_LOW_URGENCY   5.04    3234    72.1    4.0   
+Sunnybrook HSC                               Toronto     Teaching          9/2024    LOS_HIGH_URGENCY  8.57    2328    80.8    8.0   
+North York General Hospital                  Toronto     Large Community   2025-07   LOS_ADMITTED      17.06   877     25.0    8.0   
+TBRHSC                                       North       Teaching          202512    LOS_ADMITTED      18.18   867     25.0    8.0   
+Peterborough Regional                        East        Large Community   2025-03-01WT_PHYS_ASSESS    2.08    4520    83.6    2.0   
+SUNNYBROOK                                   Toronto     Teaching          3/2025    LOS_ADMITTED      16.01   885     27.1    8.0   
+Sunnybrook HSC                               Toronto     Teaching          2024-07   LOS_HIGH_URGENCY  7.41    1689    88.1    8.0   
+Grand River Hosp                             West        Large Community   2025-08   LOS_HIGH_URGENCY  5.93    1507    95.0    8.0   
+KHSC                                         East        Teaching          4/2025    LOS_LOW_URGENCY   5.04    3156    72.9    4.0   
+Kingston Health Sciences Centre              East        Teaching          2024-07-01WT_PHYS_ASSESS    1.72    4228    94.9    2.0   
+North York General                           Toronto     Large Community   202411    WT_PHYS_ASSESS    2.08    4784    77.6    2.0   
+London Victoria Hospital                     West        Teaching          2/2025    WT_PHYS_ASSESS    2.6     4527    63.5    2.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-02-01WT_PHYS_ASSESS    2.53    4283    65.7    2.0   
+St Michaels Hospital                         Toronto     Teaching          2025-10   LOS_HIGH_URGENCY  7.89    1639    87.9    8.0   
+GRH Kitchener                                West        Large Community   2025-10   LOS_LOW_URGENCY   5.2     2317    63.6    4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   7/2025    LOS_LOW_URGENCY   5.62    2902    59.4    4.0   
+GRH Kitchener                                West        Large Community   2025-02   WT_PHYS_ASSESS    2.4     3950    69.0    2.0   
+Peterborough Regional                        East        Large Community   2024-12-01LOS_HIGH_URGENCY  7.81    2611    86.5    8.0   
+TOH Civic                                    East        Teaching          2024-08-01LOS_HIGH_URGENCY  7.03    1645    86.4    8.0   
+Hamilton General                             West        Teaching          3/2025    LOS_HIGH_URGENCY  7.28    2068    91.2    8.0   
+Hamilton General                             West        Teaching          202508    LOS_LOW_URGENCY   5.23    2340    66.6    4.0   
+TOH Civic                                    East        Teaching          202504    WT_PHYS_ASSESS    2.24    3691    73.0    2.0   
+TBRHSC                                       North       Teaching          202509    LOS_HIGH_URGENCY  8.58    1650    79.7    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          2024-07-01LOS_LOW_URGENCY   4.67    2343    76.1    4.0   
+WRH Ouellette                                West        Large Community   2024-10-01LOS_ADMITTED      12.51   823     49.7    8.0   
+Kingston General Hospital                    East        Teaching          202501    WT_PHYS_ASSESS    2.51    4406    66.8    2.0   
+RVH Barrie                                   Central     Large Community   2025-03   LOS_ADMITTED      17.12   932     25.0    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          8/2025    LOS_LOW_URGENCY   5.28    3041    63.1    4.0   
+Sudbury Regional Hospital                    North       Teaching          6/2025    LOS_LOW_URGENCY   5.12    2593    69.7    4.0   
+Mississauga Hospital                         Central     Large Community   2/2025    LOS_LOW_URGENCY   5.13    3268    71.1    4.0   
+GRH Kitchener                                West        Large Community   202503    LOS_HIGH_URGENCY          1801    90.5    8.0   
+Lakeridge Health - Oshawa                    Central     Large Community   9/2025    WT_PHYS_ASSESS    2.49    4794    71.7    2.0   
+Royal Victoria Barrie                        Central     Large Community   11/2025   LOS_ADMITTED      13.2    881             8.0   
+Niagara Health SCS                           West        Large Community   2024-12-01LOS_ADMITTED      17.4    930     25.0    8.0   
+Sudbury Regional Hospital                    North       Teaching          1/2025    LOS_LOW_URGENCY   6.15    3070    57.3    4.0   
+Royal Victoria Barrie                        Central     Large Community   202509    LOS_ADMITTED      13.02   1020    49.6    8.0   
+Thunder Bay Regional                         North       Teaching          2025-03-01LOS_LOW_URGENCY   5.82    2626    58.1    4.0   
+HSN Sudbury                                  North       Teaching          202511    LOS_HIGH_URGENCY  8.09    1648    81.4    8.0   
+Toronto General Hospital                     Toronto     Teaching          202408    LOS_ADMITTED      15.86   768     32.3    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-04-01LOS_ADMITTED      14.49   859     36.3    8.0   
+Windsor Ouellette Campus                     West        Large Community   2025-07   LOS_HIGH_URGENCY  7.17    2251    91.6    8.0   
+Lakeridge Oshawa                             Central     Large Community   2024-11   LOS_ADMITTED      14.29   970     42.0    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2024-07   LOS_HIGH_URGENCY  6.01    1504    95.0    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-11-01LOS_ADMITTED      14.0    783     45.2    8.0   
+Grand River Hosp                             West        Large Community   2025-12   LOS_LOW_URGENCY   5.2     3783            4.0   
+Brampton Civic Hospital                      Central     Large Community   12/2025   LOS_HIGH_URGENCY  7.11    2395    91.7    8.0   
+Kingston Health Sciences Centre              East        Teaching          2025-12-01LOS_LOW_URGENCY   6.24    3448    52.9%   4.0   
+Health Sciences North                        North       Teaching          12/2024   LOS_LOW_URGENCY   6.79    2866    43.3    4.0   
+Scarborough Health Network - General         Toronto     Large Community   9/2025    WT_PHYS_ASSESS    2.23    4371    80.5    2.0   
+Peterborough Regional Health Centre          East        Large Community   2024-07-01WT_PHYS_ASSESS    1.91    4947    86.7    2.0   
+Kingston Health Sciences Centre              East        Teaching          202501    LOS_ADMITTED      18.74   993     25.0    8.0   
+Thunder Bay Regional                         North       Teaching          202411    LOS_LOW_URGENCY   5.1     2320    67.8    4.0   
+NYGH                                         Toronto     Large Community   2025-07   los_low_urgency   5.13    2927    70.5    4.0   
+The Ottawa Hospital Civic                    East        Teaching          202411    LOS_ADMITTED      14.75   1018    37.0    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   2025-07-01WT_PHYS_ASSESS    2.26    4255    76.1    2.0   
+GRH Kitchener                                West        Large Community   9/2024    LOS_HIGH_URGENCY  5.63    2315    95.0    8.0   
+THP Mississauga                              Central     Large Community   2025-08   WT_PHYS_ASSESS    1.88    4301    83.5    2.0   
+Kingston General Hospital                    East        Teaching          2025-08   LOS_HIGH_URGENCY  6.23    1571    95.0    8.0   
+The Ottawa Hospital Civic                    East        Teaching          202501    WT_PHYS_ASSESS    2.34    3866    76.9    2.0   
+KHSC                                         East        Teaching          2025-06   LOS_LOW_URGENCY   4.31    2297    77.2    4.0   
+Kingston Health Sciences Centre              EAST        Teaching          9/2025    LOS_LOW_URGENCY   -1.0    2943    95.0    4.0   
+Grand River Hosp                             West        Large Community   2024-08-01WT_PHYS_ASSESS    1.64    3684    89.5    2.0   
+TBRHSC                                       North       Teaching          2025-11-01LOS_HIGH_URGENCY  7.84    2076    86.4    8.0   
+Osler Brampton Civic                         Central     Large Community   2024-10   WT_PHYS_ASSESS    2.34    4041    76.5    2.0   
+GRH Kitchener                                West        Large Community   202510    LOS_HIGH_URGENCY  -1.0    2236    95.0    8.0   
+Royal Victoria Barrie                        Central     Large Community   2/2025    LOS_HIGH_URGENCY  9.05    2529    75.8    8.0   
+UHN - Toronto General                        Toronto     Teaching          2025-11   LOS_HIGH_URGENCY  7.33    1775    87.7    8.0   
+Lakeridge Health - Oshawa                    Central     Large Community   2024-09-01LOS_LOW_URGENCY   5.48            67.0    4.0   
+St Catharines General                        West        Large Community   1/2025    WT_PHYS_ASSESS    2.37    4976    69.3    2.0   
+Niagara Health - St. Catharines              West        Large Community   2025-12-01WT_PHYS_ASSESS    2.01    5505    81.8    2.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-05-01LOS_LOW_URGENCY   5.23    3094    66.6    4.0   
+North York General Hospital                  Toronto     Large Community   2025-02   LOS_ADMITTED      14.98   1114    37.7    8.0   
+Kingston General Hospital                    EAST        Teaching          202507    LOS_HIGH_URGENCY  6.55    1715    89.9    8.0   
+HHS General Site                             West        Teaching          11/2025   LOS_LOW_URGENCY   6.16    2949    55.3    4.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          7/2025    LOS_ADMITTED      17.36   871     25.0    8.0   
+TBRHSC                                       North       Teaching          12/2025   WT_PHYS_ASSESS    2.25    4860    79.7    2.0   
+Windsor Ouellette Campus                     West        Large Community   2025-02   LOS_HIGH_URGENCY  6.58    2492    91.4    8.0   
+Toronto General Hospital                     Toronto     Teaching          2024-07-01WT_PHYS_ASSESS    2.42    3236            2.0   
+Oshawa General                               Central     Large Community   2025-09   LOS_HIGH_URGENCY  6.86    1949    92.5    8.0   
+HHS General Site                             West        Teaching          202412    los_admitted      19.31   1168    25.0    8.0   
+Grand River Hosp                             West        Large Community   2025-07   LOS_ADMITTED      11.95   990     57.2    8.0   
+Ottawa Hospital - Civic Campus               EAST        Teaching          7/2025    LOS_ADMITTED      15.54   838     33.6    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   9/2024    LOS_LOW_URGENCY   4.86    2440    73.9    4.0   
+Oak Valley Health - Markham                  Central     Large Community   2024-08   LOS_ADMITTED      16.12   1010    27.3    8.0   
+Hamilton Health Sciences - General           West        Teaching          12/2025   LOS_HIGH_URGENCY  9.39    2579    74.1    8.0   
+Kingston Health Sciences Centre              East        Teaching          202511    WT_PHYS_ASSESS    2.09    3697    82.6    2.0   
+The Ottawa Hospital Civic                    East        Teaching          9/2024    LOS_HIGH_URGENCY  6.59    1957    93.9    8.0   
+Windsor Ouellette Campus                     West        Large Community   2025-04-01LOS_ADMITTED      16.03   723     29.5%   8.0   
+Osler Brampton Civic                         Central     Large Community   2/2025    LOS_HIGH_URGENCY  7.92    2009    83.5    8.0   
+KHSC                                         East        Teaching          2025-10-01LOS_LOW_URGENCY   4.63    2944    72.7    4.0   
+Hamilton Health Sciences - General           West        Teaching          2025-04-01LOS_ADMITTED      13.4    759     47.8    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          8/2024    LOS_LOW_URGENCY   5.3     2285    62.7    4.0   
+Niagara Health - St. Catharines              West        Large Community   202409    LOS_ADMITTED      12.67   1103    52.0    8.0   
+PRHC                                         East        Large Community   2/2025    WT_PHYS_ASSESS    1.93    5483    85.6    2.0   
+SHN General                                  Toronto     Large Community   2024-12   LOS_ADMITTED      16.16   859     25.0    8.0   
+Niagara Health SCS                           West        Large Community   202506    WT_PHYS_ASSESS    1.74    4686            2.0   
+THP Mississauga                              Central     Large Community   2025-12   LOS_HIGH_URGENCY  7.73    2090    86.3    8.0   
+Hamilton General                             West        Teaching          2025-07-01LOS_LOW_URGENCY   4.9     2523    68.4%   4.0   
+Mississauga Hospital                         Central     Large Community   3/2025    WT_PHYS_ASSESS    2.49    4716    72.5    2.0   
+London Health Sciences Centre - Victoria     West        Teaching          10/2025   LOS_ADMITTED      15.97   971     25.1    8.0   
+Mississauga Hospital                         Central     Large Community   8/2025    LOS_HIGH_URGENCY  6.66    1753    89.1    8.0   
+Hamilton Health Sciences - General           West        Teaching          2025-01   LOS_ADMITTED      18.04   968     25.0    8.0   
+Markham Stouffville                          Central     Large Community   2025-06   LOS_LOW_URGENCY   5.63    3045    63.0    4.0   
+Grand River Hospital                         West        Large Community   202508    WT_PHYS_ASSESS    1.62    3608    91.4    2.0   
+PRHC                                         East        Large Community   202501    LOS_LOW_URGENCY   5.49    3549    59.3    4.0   
+St Catharines General                        West        Large Community   2024-07   LOS_ADMITTED      14.62   956     38.0    8.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-08   LOS_HIGH_URGENCY  8.75    2213    79.8    8.0   
+Health Sciences North                        North       Teaching          8/2025    LOS_ADMITTED      15.25   1058    37.2    8.0   
+TOH Civic                                    East        Teaching          2025-03   WT_PHYS_ASSESS    2.24    4883    75.8    2.0   
+KHSC                                         East        Teaching          202408    LOS_HIGH_URGENCY  7.75    1898    82.4    8.0   
+Peterborough Regional                        East        Large Community   2024-09   LOS_ADMITTED      13.47   910     42.1    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-08   LOS_ADMITTED      13.94   724     42.3    8.0   
+HHS General Site                             West        Teaching          202408    LOS_HIGH_URGENCY  6.1     1769    95.0    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   8/2024    WT_PHYS_ASSESS    2.14    3682    77.2    2.0   
+TBRHSC                                       North       Teaching          6/2025    LOS_ADMITTED      16.73   984     25.0    8.0   
+TBRHSC                                       North       Teaching          2024-11-01wt_phys_assess    2.08    4129    80.9    2.0   
+KHSC                                         East        Teaching          11/2025   LOS_ADMITTED      13.97   870     42.1    8.0   
+Oak Valley Health - Markham                  Central     Large Community   202409    LOS_LOW_URGENCY   5.63    2392    60.4    4.0   
+Niagara Health SCS                           West        Large Community   2025-06   LOS_ADMITTED      13.85   881     41.3    8.0   
+NYGH                                         Toronto     Large Community   2025-03   WT_PHYS_ASSESS    2.63    3846    64.5    2.0   
+LHSC Victoria                                West        Teaching          2025-04   LOS_LOW_URGENCY   5.55    2308    62.2    4.0   
+Windsor Ouellette Campus                     West        Large Community   2024-08   LOS_LOW_URGENCY   4.28    2720    80.2    4.0   
+Sunnybrook HSC                               Toronto     Teaching          2024-08-01LOS_HIGH_URGENCY  6.9     2113    93.5    8.0   
+LHSC Victoria                                West        Teaching          7/2024    LOS_ADMITTED      15.91   707     31.1    8.0   
+St Catharines General                        West        Large Community   2024-11   WT_PHYS_ASSESS    1.96    3562    85.8    2.0   
+Niagara Health - St. Catharines              West        Large Community   2025-01   LOS_ADMITTED      16.79   1250    25.0    8.0   
+Oak Valley Health - Markham                  Central     Large Community   10/2025   LOS_LOW_URGENCY   5.95    2240    57.9    4.0   
+Scarborough General                          Toronto     Large Community   2025-05   LOS_HIGH_URGENCY  7.69    1531    87.6%   8.0   
+Kingston General Hospital                    East        Teaching          2025-06-01WT_PHYS_ASSESS    2.3     4516    72.4    2.0   
+Toronto General Hosp.                        Toronto     Teaching          2025-10   LOS_HIGH_URGENCY          2259    93.1    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   202509    LOS_HIGH_URGENCY  6.62    2045    92.1    8.0   
+HSN Sudbury                                  North       Teaching          2025-07   LOS_LOW_URGENCY   5.88    2523    54.0    4.0   
+St Catharines General                        West        Large Community   2025-06   LOS_HIGH_URGENCY  7.18    1712    91.4    8.0   
+SUNNYBROOK                                   Toronto     Teaching          2024-10-01WT_PHYS_ASSESS    2.12    4962    83.9    2.0   
+Scarborough Health Network - General         Toronto     Large Community   202508    LOS_ADMITTED      -1.0    999     95.0    8.0   
+UHN - Toronto General                        Toronto     Teaching          2025-06   WT_PHYS_ASSESS    2.12    3854    83.9%   2.0   
+HHS General Site                             West        Teaching          2025-11-01LOS_ADMITTED      15.18   1023    33.0    8.0   
+Oshawa General                               Central     Large Community   2025-07-01LOS_LOW_URGENCY   4.73    3113            4.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-08   WT_PHYS_ASSESS    2.45    4299    72.6    2.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-08-01LOS_HIGH_URGENCY  6.48    2077    95.0    8.0   
+St Michaels Hospital                         Toronto     Teaching          202509    LOS_ADMITTED      17.51   868     25.0    8.0   
+Niagara Health SCS                           WEST        Large Community   202503    LOS_ADMITTED      16.04   893     25.3    8.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-04-01LOS_ADMITTED      17.53   1019    25.0    8.0   
+NYGH                                         Toronto     Large Community   2025-10-01LOS_LOW_URGENCY   4.59    3118            4.0   
+LHSC Victoria                                West        Teaching          2025-03-01LOS_LOW_URGENCY   5.35    3491    61.2    4.0   
+Thunder Bay Regional                         North       Teaching          202412    WT_PHYS_ASSESS    2.59    4642    67.3    2.0   
+Health Sciences North                        North       Teaching          2025-09-01LOS_HIGH_URGENCY  6.89            91.6    8.0   
+HHS General Site                             West        Teaching          2025-11-01LOS_HIGH_URGENCY  7.52    2370            8.0   
+SHN General                                  Toronto     Large Community   202508    LOS_HIGH_URGENCY  6.99    1951    88.5    8.0   
+NYGH                                         Toronto     Large Community   2024-08   LOS_ADMITTED      16.39   1045    27.5    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2025-06   WT_PHYS_ASSESS    2.17    3369    77.1    2.0   
+GRH Kitchener                                West        Large Community   2025-07   LOS_LOW_URGENCY   4.87    2839    72.5    4.0   
+Osler Brampton Civic                         Central     Large Community   5/2025    LOS_LOW_URGENCY   -1.0    3118    95.0    4.0   
+North York General                           Toronto     Large Community   2025-06   LOS_HIGH_URGENCY  7.26    1607    85.4    8.0   
+HSN Sudbury                                  North       Teaching          2024-10   LOS_ADMITTED      14.53   761     36.6    8.0   
+Grand River Hosp                             West        Large Community   2024-10-01WT_PHYS_ASSESS    1.78    5020    88.9    2.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-01   LOS_ADMITTED      21.76   825     25.0    8.0   
+Kingston Health Sciences Centre              East        Teaching          2025-08   WT_PHYS_ASSESS    1.97    3588    82.0    2.0   
+KHSC                                         East        Teaching          7/2024    LOS_LOW_URGENCY   4.76    2840    74.7    4.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-01-01LOS_ADMITTED      18.59   1255    25.0    8.0   
+St Catharines General                        West        Large Community   10/2025   LOS_HIGH_URGENCY  6.79    1964    93.1    8.0   
+RVH Barrie                                   Central     Large Community   2024-10   LOS_HIGH_URGENCY  6.86    1825    91.2    8.0   
+GRH Kitchener                                West        Large Community   202409    LOS_LOW_URGENCY   4.8     2596    75.7    4.0   
+Thunder Bay Regional                         North       Teaching          202504    LOS_LOW_URGENCY   5.34    3390    68.2    4.0   
+UHN - Toronto General                        Toronto     Teaching          202503    LOS_LOW_URGENCY   6.06    2646    56.5    4.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2/2025    LOS_ADMITTED      -1.0    826     95.0    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202504    LOS_HIGH_URGENCY  7.22    2116    90.9    8.0   
+Niagara Health SCS                           West        Large Community   2025-02   WT_PHYS_ASSESS    2.1     5729    77.5    2.0   
+Unity Health - St. Michael's                 TORONTO     Teaching          202409    LOS_ADMITTED      15.38   1092    36.5    8.0   
+TBRHSC                                       North       Teaching          2024-09-01WT_PHYS_ASSESS    2.36    4500    75.2    2.0   
+Scarborough General                          Toronto     Large Community   202507    LOS_HIGH_URGENCY  6.09    1680    95.0    8.0   
+Toronto General Hosp.                        Toronto     Teaching          2025-06-01LOS_HIGH_URGENCY  7.34    1744    84.9    8.0   
+HHS General Site                             West        Teaching          2025-06   LOS_LOW_URGENCY   5.02    2557    67.4    4.0   
+Royal Victoria Barrie                        Central     Large Community   202507    WT_PHYS_ASSESS    1.72    4404    93.7    2.0   
+Markham Stouffville Hospital                 Central     Large Community   2024-08-01LOS_LOW_URGENCY   5.03    2499    65.3    4.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2025-04   LOS_LOW_URGENCY   5.64    2311    59.7    4.0   
+Grand River Hospital                         West        Large Community   1/2025    LOS_LOW_URGENCY   4.73    2701    75.4    4.0   
+Scarborough General                          Toronto     Large Community   2025-11   WT_PHYS_ASSESS            3387    86.1    2.0   
+London Health Sciences Centre - Victoria     West        Teaching          2024-08   LOS_LOW_URGENCY   4.96    2221    71.5    4.0   
+Toronto General Hosp.                        Toronto     Teaching          2025-06-01LOS_ADMITTED      17.74   1055    25.0    8.0   
+Toronto General Hospital                     Toronto     Teaching          10/2025   LOS_ADMITTED      15.54   942     27.9    8.0   
+GRH Kitchener                                West        Large Community   11/2025   WT_PHYS_ASSESS    2.18    5141    75.1    2.0   
+HSN Sudbury                                  North       Teaching          202410    LOS_LOW_URGENCY   5.46    2900    61.8    4.0   
+Toronto General Hospital                     Toronto     Teaching          2024-07-01LOS_ADMITTED      15.27   925     29.9    8.0   
+Kingston General Hospital                    East        Teaching          202506    LOS_ADMITTED      13.17   930     49.5    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-08   LOS_ADMITTED      13.76   724     41.0    8.0   
+WRH Ouellette                                West        Large Community   202501    LOS_ADMITTED      15.49   1038    28.5    8.0   
+Grand River Hosp                             West        Large Community   8/2024    LOS_LOW_URGENCY   3.9     2138    82.6    4.0   
+Sudbury Regional Hospital                    North       Teaching          2025-03-01WT_PHYS_ASSESS    1.99    4648    80.1    2.0   
+London Victoria Hospital                     West        Teaching          2025-07-01LOS_LOW_URGENCY   4.72    2852    73.9    4.0   
+KHSC                                         East        Teaching          202409    WT_PHYS_ASSESS    2.03    4904    83.2    2.0   
+North York General Hospital                  Toronto     Large Community   2025-08   LOS_LOW_URGENCY   4.83    3271    68.3    4.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-06   LOS_HIGH_URGENCY  6.28    1989    95.0    8.0   
+Kingston General Hospital                    East        Teaching          2025-05-01LOS_LOW_URGENCY   4.42    3232    77.9    4.0   
+KHSC                                         East        Teaching          202412    LOS_ADMITTED      17.46   811     25.0    8.0   
+PRHC                                         East        Large Community   202504    LOS_ADMITTED      15.39   869     31.4    8.0   
+Windsor Ouellette Campus                     West        Large Community   2025-12-01WT_PHYS_ASSESS    2.37    3989    70.3    2.0   
+Osler Brampton Civic                         Central     Large Community   202507    LOS_ADMITTED      14.08   1016    44.1    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   202407    WT_PHYS_ASSESS    2.35    3555    73.7    2.0   
+Royal Victoria Barrie                        Central     Large Community   12/2024   LOS_ADMITTED      14.34   1099    38.5    8.0   
+Toronto General Hospital                     Toronto     Teaching          2025-01   LOS_LOW_URGENCY   7.29    3330    41.4    4.0   
+St Michaels Hospital                         Toronto     Teaching          202412    LOS_ADMITTED      17.88   1231    25.0    8.0   
+RVH Barrie                                   Central     Large Community   2/2025    LOS_ADMITTED      19.94   1211    25.0    8.0   
+HSN Sudbury                                  North       Teaching          11/2024   WT_PHYS_ASSESS    2.36    4995    74.6    2.0   
+Windsor Ouellette Campus                     West        Large Community   2/2025    WT_PHYS_ASSESS    2.02    5268    82.0    2.0   
+UHN - Toronto General                        Toronto     Teaching          2025-07   LOS_LOW_URGENCY   5.25    3181    63.0    4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   8/2024    LOS_HIGH_URGENCY  6.63    2002    93.7    8.0   
+PRHC                                         East        Large Community   202504    WT_PHYS_ASSESS    2.27    4789    73.8    2.0   
+TOH Civic                                    East        Teaching          202507    LOS_LOW_URGENCY   5.15    2753    68.3    4.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-06   LOS_HIGH_URGENCY  6.02    1537    95.0    8.0   
+Mississauga Hospital                         Central     Large Community   10/2024   LOS_LOW_URGENCY   5.65    3194    61.6    4.0   
+KHSC                                         East        Teaching          2024-09   LOS_ADMITTED      16.53   763     25.0    8.0   
+Niagara Health - St. Catharines              West        Large Community   2024-07   WT_PHYS_ASSESS    1.91    3459    87.7    2.0   
+The Ottawa Hospital Civic                    East        Teaching          202512    LOS_HIGH_URGENCY  8.98    2046    72.9    8.0   
+LHSC Victoria                                WEST        Teaching          2024-09-01LOS_ADMITTED      16.47   845     25.0    8.0   
+St Michaels Hospital                         Toronto     Teaching          2025-12   LOS_HIGH_URGENCY  8.34    1704    82.2    8.0   
+St Michaels Hospital                         Toronto     Teaching          2024-11   WT_PHYS_ASSESS    2.55    5137    65.6    2.0   
+Hamilton General                             West        Teaching          2025-04-01LOS_LOW_URGENCY   4.42    2991    79.7    4.0   
+Grand River Hosp                             West        Large Community   5/2025    LOS_HIGH_URGENCY  7.67    2027    87.6    8.0   
+Sunnybrook HSC                               Toronto     Teaching          202412    LOS_HIGH_URGENCY  9.34    2366    73.1    8.0   
+Grand River Hosp                             West        Large Community   2025-07-01LOS_HIGH_URGENCY  5.91    1951    95.0    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   2025-09-01LOS_HIGH_URGENCY  6.65    2126    89.8    8.0   
+WRH Ouellette                                West        Large Community   2024-10   LOS_LOW_URGENCY   5.25    2715    64.4    4.0   
+Lakeridge Oshawa                             Central     Large Community   2024-10   LOS_ADMITTED      13.41   1023    45.3    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-04-01LOS_LOW_URGENCY   5.96    2327    58.5    4.0   
+Niagara Health - St. Catharines              West        Large Community   2025-04   LOS_LOW_URGENCY   5.07    3477    71.8    4.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-02-01LOS_ADMITTED      15.5    941     28.1    8.0   
+North York General Hospital                  Toronto     Large Community   10/2025   WT_PHYS_ASSESS    2.09    4925    84.7    2.0   
+TBRHSC                                       North       Teaching          2/2025    LOS_HIGH_URGENCY  9.42    2304    75.8    8.0   
+Mississauga Hospital                         Central     Large Community   202407    los_admitted      14.09   1005    45.5    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          202508    WT_PHYS_ASSESS    2.31    4851    74.4    2.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          202511    WT_PHYS_ASSESS    1.97    4284    82.1    2.0   
+Niagara Health SCS                           West        Large Community   202503    WT_PHYS_ASSESS    2.31    4286    77.4    2.0   
+Toronto General Hospital                     Toronto     Teaching          202411    LOS_HIGH_URGENCY  7.37    2348    84.3    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          3/2025    LOS_HIGH_URGENCY  8.99    1813    78.3    8.0   
+TOH Civic                                    East        Teaching          10/2024   LOS_ADMITTED      13.56   1097    46.5    8.0   
+KHSC                                         East        Teaching          2025-04   WT_PHYS_ASSESS            4300    81.6    2.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          3/2025    WT_PHYS_ASSESS    2.4     3984    74.5    2.0   
+London Health Sciences Centre - Victoria     West        Teaching          202510    LOS_HIGH_URGENCY  7.19    1946    89.8    8.0   
+Brampton Civic Hospital                      Central     Large Community   2024-08   WT_PHYS_ASSESS    2.0     3481    81.2    2.0   
+Kingston General Hospital                    East        Teaching          202502    LOS_ADMITTED      14.37   810     39.3    8.0   
+North York General Hospital                  TORONTO     Large Community   2024-08-01LOS_HIGH_URGENCY  6.38    1542    92.4    8.0   
+Thunder Bay Regional                         North       Teaching          2024-09   LOS_LOW_URGENCY   5.48    2723    63.9    4.0   
+Hamilton General                             West        Teaching          202502    WT_PHYS_ASSESS    2.24    4214    77.0    2.0   
+HHS General Site                             West        Teaching          2025-04-01WT_PHYS_ASSESS    1.94    4640            2.0   
+Hamilton General                             West        Teaching          12/2024   WT_PHYS_ASSESS    2.64    4445    69.3    2.0   
+Sunnybrook HSC                               Toronto     Teaching          202506    LOS_ADMITTED      17.07   776     25.0    8.0   
+North York General                           Toronto     Large Community   202506    WT_PHYS_ASSESS    1.97    4962    84.1    2.0   
+Peterborough Regional                        East        Large Community   202409    WT_PHYS_ASSESS    1.86    4890    87.9    2.0   
+NYGH                                         Toronto     Large Community   202501    WT_PHYS_ASSESS    2.19    3996    79.7    2.0   
+Royal Victoria Barrie                        Central     Large Community   2024-08   LOS_LOW_URGENCY   4.39    2749    80.7    4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   202508    los_low_urgency   5.27    2976    62.5    4.0   
+The Ottawa Hospital Civic                    East        Teaching          8/2025    LOS_ADMITTED      16.25   878     26.7    8.0   
+TORONTO GENERAL                              Toronto     Teaching          202508    LOS_LOW_URGENCY   -1.0    2250    95.0    4.0   
+Markham Stouffville Hospital                 Central     Large Community   202511    LOS_HIGH_URGENCY  6.67    1805    89.4    8.0   
+Royal Victoria Barrie                        Central     Large Community   202409    LOS_HIGH_URGENCY  6.16    1582    93.3    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-01-01LOS_HIGH_URGENCY  7.46    2397    86.9    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202505    LOS_LOW_URGENCY   5.44    2950    62.3    4.0   
+Lakeridge Oshawa                             Central     Large Community   10/2024   WT_PHYS_ASSESS    1.83    4788    84.3    2.0   
+North York General Hospital                  Toronto     Large Community   9/2024    LOS_ADMITTED      13.9    1047    44.2    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2024-12   WT_PHYS_ASSESS    2.61    5555    67.2    2.0   
+Peterborough Regional                        EAST        Large Community   9/2025    LOS_LOW_URGENCY   4.86    2422    69.7    4.0   
+Royal Victoria Barrie                        Central     Large Community   2025-01   WT_PHYS_ASSESS    2.18    4174    81.0    2.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2025-11-01LOS_ADMITTED      14.91   837     38.5    8.0   
+Peterborough Regional Health Centre          East        Large Community   2025-11   LOS_LOW_URGENCY   4.07    2277    83.9    4.0   
+Peterborough Regional                        East        Large Community   2025-08   LOS_ADMITTED      13.92   708     46.7    8.0   
+GRH Kitchener                                West        Large Community   2025-05   WT_PHYS_ASSESS    2.04    5075    84.3    2.0   
+Markham Stouffville                          Central     Large Community   2024-09   WT_PHYS_ASSESS    1.82    5033    91.9    2.0   
+Sunnybrook HSC                               Toronto     Teaching          5/2025    LOS_ADMITTED      14.88   1088    32.6    8.0   
+Health Sciences North                        North       Teaching          2025-03-01LOS_HIGH_URGENCY  8.52    1565    80.8    8.0   
+KHSC                                         East        Teaching          2025-01-01LOS_LOW_URGENCY   5.0     3222    67.9    4.0   
+Scarborough Health Network - General         Toronto     Large Community   3/2025    LOS_ADMITTED      14.08   779     38.6    8.0   
+LHSC Victoria                                West        Teaching          6/2025    LOS_HIGH_URGENCY  7.93    1899    82.7    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2024-09   WT_PHYS_ASSESS    2.13    4438    76.0    2.0   
+Windsor Ouellette Campus                     West        Large Community   202507    WT_PHYS_ASSESS    1.94    4966    85.1    2.0   
+Health Sciences North                        North       Teaching          2024-09-01WT_PHYS_ASSESS    2.15    3795    80.8    2.0   
+Hamilton General                             WEST        Teaching          202505    LOS_HIGH_URGENCY  6.17    1759    95.0    8.0   
+St Michaels Hospital                         Toronto     Teaching          2024-07-01LOS_HIGH_URGENCY  7.92    2233    81.4    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   202410    LOS_LOW_URGENCY   5.35    3306    63.2    4.0   
+Niagara Health SCS                           West        Large Community   2025-05-01LOS_LOW_URGENCY   4.69    3188    72.1    4.0   
+St Michaels Hospital                         Toronto     Teaching          202506    LOS_LOW_URGENCY   4.96    2665    70.7    4.0   
+Hamilton General                             West        Teaching          2025-10-01LOS_LOW_URGENCY   5.89    3046            4.0   
+St Catharines General                        WEST        Large Community   8/2024    LOS_HIGH_URGENCY  5.7     2003    95.0    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-04-01WT_PHYS_ASSESS    2.56    3386    65.2    2.0   
+Toronto General Hospital                     Toronto     Teaching          2025-08-01LOS_ADMITTED      15.86   1033    31.1    8.0   
+Health Sciences North                        North       Teaching          202408    LOS_ADMITTED      17.53   1068    25.0    8.0   
+Brampton Civic Hospital                      Central     Large Community   9/2024    LOS_HIGH_URGENCY  6.2     1620    95.0    8.0   
+SHN General                                  Toronto     Large Community   2025-04-01WT_PHYS_ASSESS    2.01    4087    84.0    2.0   
+HSN Sudbury                                  North       Teaching          2024-09   LOS_LOW_URGENCY   6.26    2774    50.8    4.0   
+Royal Victoria Regional Health Centre        Central     Large Community   202501    LOS_ADMITTED      16.81   950     25.0    8.0   
+Scarborough General                          Toronto     Large Community   2025-12   LOS_HIGH_URGENCY  9.16    2199    79.4    8.0   
+Hamilton Health Sciences - General           West        Teaching          202408    WT_PHYS_ASSESS    2.07    4946    84.3    2.0   
+Niagara Health SCS                           WEST        Large Community   2025-10-01WT_PHYS_ASSESS    2.01    3972    85.3    2.0   
+PRHC                                         East        Large Community   202505    los_admitted      15.35   1107    36.9    8.0   
+Markham Stouffville                          Central     Large Community   202502    LOS_ADMITTED              1238    42.6    8.0   
+Grand River Hosp                             West        Large Community   202506    WT_PHYS_ASSESS    2.05    3769    78.8    2.0   
+The Ottawa Hospital Civic                    East        Teaching          202512    LOS_ADMITTED      15.3    972     35.5    8.0   
+St. Michael's Hospital                       Toronto     Teaching          2025-12   LOS_LOW_URGENCY   6.72    2888    45.3    4.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-08   LOS_ADMITTED      17.48   737     25.0    8.0   
+Lakeridge Oshawa                             Central     Large Community   2024-11-01WT_PHYS_ASSESS    2.27    3686    75.8    2.0   
+Niagara Health SCS                           West        Large Community   2024-10   LOS_LOW_URGENCY   4.76    3203    74.5    4.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-01   LOS_LOW_URGENCY   5.19    3684    69.8    4.0   
+Oak Valley Health - Markham                  Central     Large Community   202512    LOS_HIGH_URGENCY  6.99    2646    90.6    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          202503    LOS_ADMITTED      17.29   790     25.0    8.0   
+Niagara Health SCS                           West        Large Community   11/2025   LOS_ADMITTED      12.95   777     45.9    8.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-10-01LOS_LOW_URGENCY   5.53    3148    61.7    4.0   
+KHSC                                         East        Teaching          2025-07   LOS_ADMITTED      13.31   855     44.8    8.0   
+Oak Valley Health - Markham                  Central     Large Community   2024-12   WT_PHYS_ASSESS    2.61    5366    64.4    2.0   
+London Health Sciences Centre - Victoria     West        Teaching          11/2024   los_admitted      15.99   769     31.5    8.0   
+HSN Sudbury                                  North       Teaching          9/2024    LOS_ADMITTED      15.93   784     31.3    8.0   
+WRH Ouellette                                West        Large Community   2024-11-01LOS_LOW_URGENCY   4.57    3321    73.0    4.0   
+London Health Sciences Centre - Victoria     West        Teaching          2024-09   LOS_LOW_URGENCY   4.86    2598    68.0    4.0   
+PRHC                                         East        Large Community   2025-09-01LOS_ADMITTED      15.24   1120            8.0   
+Grand River Hospital                         West        Large Community   8/2024    LOS_ADMITTED      12.34   878     50.2    8.0   
+Markham Stouffville                          Central     Large Community   2024-07   LOS_HIGH_URGENCY  6.26    2225            8.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-09   LOS_HIGH_URGENCY  7.79    1781    87.8    8.0   
+Niagara Health - St. Catharines              West        Large Community   202412    LOS_LOW_URGENCY   6.21    3517    51.8    4.0   
+London Victoria Hospital                     West        Teaching          2025-07-01LOS_ADMITTED      16.29   1022    30.0    8.0   
+Scarborough Health Network - General         Toronto     Large Community   202502    LOS_HIGH_URGENCY  8.15    2241    80.4    8.0   
+Hamilton General                             WEST        Teaching          7/2025    LOS_HIGH_URGENCY  6.87    2167    95.0    8.0   
+Markham Stouffville                          Central     Large Community   2025-02-01WT_PHYS_ASSESS    2.77    5817    58.8    2.0   
+TOH Civic                                    East        Teaching          9/2025    LOS_ADMITTED      12.81   1124    51.3    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   2024-07   LOS_LOW_URGENCY   5.51    2828    61.4    4.0   
+RVH Barrie                                   Central     Large Community   2024-12-01LOS_LOW_URGENCY   4.96    3469    67.8    4.0   
+RVH Barrie                                   Central     Large Community   202508    LOS_HIGH_URGENCY  7.17    1537    88.5    8.0   
+LHSC Victoria                                West        Teaching          202411    LOS_HIGH_URGENCY  6.05    1914    95.0    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-09-01LOS_LOW_URGENCY   4.8     2755    72.3    4.0   
+Sudbury Regional Hospital                    NORTH       Teaching          202506    WT_PHYS_ASSESS    2.25    3699    76.0    2.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-04   LOS_HIGH_URGENCY  7.34    2056    88.2    8.0   
+Peterborough Regional Health Centre          East        Large Community   3/2025    LOS_LOW_URGENCY   4.44    2299    80.6    4.0   
+THP Mississauga                              Central     Large Community   2024-08-01LOS_ADMITTED      14.4    951     36.8    8.0   
+THP Mississauga                              Central     Large Community   2025-04   LOS_LOW_URGENCY   5.88    2494    58.9    4.0   
+Markham Stouffville Hospital                 Central     Large Community   6/2025    WT_PHYS_ASSESS    2.23    3587    78.5    2.0   
+SUNNYBROOK                                   Toronto     Teaching          2024-09   WT_PHYS_ASSESS    2.7     5137    62.8    2.0   
+RVH Barrie                                   Central     Large Community   202503    WT_PHYS_ASSESS    1.88    5170            2.0   
+The Ottawa Hospital Civic                    East        Teaching          202502    LOS_HIGH_URGENCY  7.41    1912    87.8    8.0   
+Toronto General Hospital                     Toronto     Teaching          2025-03   LOS_ADMITTED      16.61   881     26.6    8.0   
+NYGH                                         Toronto     Large Community   1/2025    LOS_ADMITTED      16.33   1047    25.4    8.0   
+Lakeridge Oshawa                             Central     Large Community   2025-03   LOS_ADMITTED      14.01   799     38.4    8.0   
+TOH Civic                                    East        Teaching          3/2025    LOS_ADMITTED      14.55   850     42.2    8.0   
+Windsor Ouellette Campus                     West        Large Community   2024-11-01LOS_HIGH_URGENCY          1881    95.0    8.0   
+The Ottawa Hospital Civic                    East        Teaching          1/2025    LOS_LOW_URGENCY   5.11    2525    67.1    4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   202505    WT_PHYS_ASSESS    2.21    4097    74.5    2.0   
+Peterborough Regional Health Centre          East        Large Community   202411    LOS_HIGH_URGENCY  6.38    2108    93.7    8.0   
+North York General Hospital                  Toronto     Large Community   2025-12-01LOS_HIGH_URGENCY  7.38    1833    84.8    8.0   
+Peterborough Regional                        East        Large Community   2025-09   WT_PHYS_ASSESS    2.06    4070    84.0    2.0   
+PRHC                                         East        Large Community   2024-07   LOS_ADMITTED      14.39   854     37.1    8.0   
+St Michaels Hospital                         Toronto     Teaching          2025-06   LOS_ADMITTED      13.98   851     46.0    8.0   
+Niagara Health - St. Catharines              West        Large Community   2/2025    LOS_HIGH_URGENCY  7.85    1990    80.9    8.0   
+Niagara Health - St. Catharines              West        Large Community   2024-11-01LOS_HIGH_URGENCY  6.8     1607    94.3    8.0   
+Peterborough Regional                        East        Large Community   202511    LOS_HIGH_URGENCY  5.54    2232    95.0    8.0   
+Peterborough Regional                        East        Large Community   2024-07   LOS_HIGH_URGENCY  6.9     1455    92.2    8.0   
+Hamilton General                             West        Teaching          2025-09-01LOS_HIGH_URGENCY  7.33    1736    85.2    8.0   
+Mississauga Hospital                         Central     Large Community   2025-12-01LOS_LOW_URGENCY   6.52    2772    45.7%   4.0   
+PRHC                                         East        Large Community   2025-06-01WT_PHYS_ASSESS    1.7     4664    88.6    2.0   
+TOH Civic                                    East        Teaching          2024-09-01LOS_LOW_URGENCY   4.7     3402    73.9    4.0   
+NYGH                                         Toronto     Large Community   1/2025    LOS_LOW_URGENCY   5.47    3068    60.1    4.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-02   LOS_LOW_URGENCY   5.37    3241    64.8    4.0   
+NYGH                                         Toronto     Large Community   202505    LOS_ADMITTED      16.25   949     28.2    8.0   
+Scarborough General                          Toronto     Large Community   2025-10-01LOS_HIGH_URGENCY  8.32    2318    80.5%   8.0   
+William Osler Health System - Brampton Civic Central     Large Community   202504    LOS_ADMITTED                      40.2    8.0   
+TBRHSC                                       North       Teaching          2024-12   LOS_HIGH_URGENCY  7.84    1803    84.6    8.0   
+TBRHSC                                       North       Teaching          202507    WT_PHYS_ASSESS    2.09    3898    79.8    2.0   
+Thunder Bay Regional                         North       Teaching          2025-01   LOS_LOW_URGENCY   6.33    3474    50.6    4.0   
+TOH Civic                                    East        Teaching          2/2025    LOS_LOW_URGENCY   6.43    3630    52.3    4.0   
+PRHC                                         East        Large Community   202408    LOS_ADMITTED      14.57   884             8.0   
+St Michaels Hospital                         Toronto     Teaching          8/2024    LOS_ADMITTED      18.98   993     25.0    8.0   
+London Victoria Hospital                     West        Teaching          2025-09   LOS_LOW_URGENCY   5.13    2623    71.3    4.0   
+Osler Brampton Civic                         Central     Large Community   2025-10-01LOS_LOW_URGENCY   5.84    2404    59.0    4.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          202502    WT_PHYS_ASSESS    2.56    5459    67.5    2.0   
+William Osler Health System - Brampton Civic Central     Large Community   2025-09-01WT_PHYS_ASSESS    2.09    3666    84.3    2.0   
+Oak Valley Health - Markham                  Central     Large Community   202508    LOS_ADMITTED      16.85   925     25.0    8.0   
+Osler Brampton Civic                         Central     Large Community   2025-03-01WT_PHYS_ASSESS    2.31    3923    74.0    2.0   
+THP Mississauga                              Central     Large Community   202407    WT_PHYS_ASSESS    1.76    3290    87.7    2.0   
+Lakeridge Health - Oshawa                    Central     Large Community   10/2025   LOS_ADMITTED      15.32   818     33.7    8.0   
+UHN - Toronto General                        Toronto     Teaching          2025-05   WT_PHYS_ASSESS    2.34    5045    73.9    2.0   
+St Catharines General                        West        Large Community   2025-11-01LOS_HIGH_URGENCY  6.4     1678    94.9    8.0   
+Niagara Health SCS                           WEST        Large Community   202502    LOS_LOW_URGENCY   5.16    3088    66.2    4.0   
+Mississauga Hospital                         Central     Large Community   2024-12   LOS_ADMITTED      14.35   887     36.6    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2025-12   LOS_HIGH_URGENCY  6.2     2203    95.0    8.0   
+PRHC                                         East        Large Community   9/2024    LOS_LOW_URGENCY   4.03    3208    80.6    4.0   
+North York General Hospital                  Toronto     Large Community   2024-10   LOS_ADMITTED      14.83   1060            8.0   
+Health Sciences North                        North       Teaching          2025-12   LOS_ADMITTED      15.01   1029    38.4    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-09-01WT_PHYS_ASSESS    2.42    3848    69.3    2.0   
+HHS General Site                             West        Teaching          2025-05-01WT_PHYS_ASSESS    2.18    4524    81.1    2.0   
+GRH Kitchener                                West        Large Community   2024-12   WT_PHYS_ASSESS    2.04    5292    81.1    2.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   202505    WT_PHYS_ASSESS    2.29    4642    71.8    2.0   
+Grand River Hospital                         West        Large Community   2025-10-01LOS_ADMITTED      12.52   1015    54.7    8.0   
+HHS General Site                             West        Teaching          2025-10   LOS_ADMITTED      13.4    756     45.1    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   202507    LOS_HIGH_URGENCY  6.32    1636    92.7    8.0   
+Markham Stouffville                          Central     Large Community   202503    LOS_LOW_URGENCY   5.29    3244    64.9    4.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-10-01WT_PHYS_ASSESS    2.57    4516    71.0    2.0   
+Thunder Bay Regional                         North       Teaching          2025-05   LOS_ADMITTED      14.26   925     38.4    8.0   
+TOH Civic                                    East        Teaching          202506    LOS_LOW_URGENCY   5.52    2803    61.4    4.0   
+WRH Ouellette                                West        Large Community   2024-07-01LOS_LOW_URGENCY   5.32    3213    65.5    4.0   
+HHS General Site                             West        Teaching          2024-10   LOS_HIGH_URGENCY  6.25    2169    95.0    8.0   
+GRH Kitchener                                WEST        Large Community   2025-12   WT_PHYS_ASSESS    2.27    4446    77.7    2.0   
+WRH Ouellette                                West        Large Community   2024-07-01LOS_HIGH_URGENCY  7.17    1557    90.9    8.0   
+KHSC                                         East        Teaching          2024-10   WT_PHYS_ASSESS    2.05    4898    82.4    2.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-11-01LOS_LOW_URGENCY   5.45    2548    60.0    4.0   
+LHSC Victoria                                West        Teaching          202503    LOS_HIGH_URGENCY  7.1     1653    92.2    8.0   
+Thunder Bay Regional                         North       Teaching          202411    LOS_HIGH_URGENCY  6.89    2223    92.7    8.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-10   WT_PHYS_ASSESS    2.09    3944    83.6    2.0   
+Peterborough Regional Health Centre          East        Large Community   5/2025    WT_PHYS_ASSESS    1.9     3907    89.6    2.0   
+St Catharines General                        West        Large Community   2024-12-01WT_PHYS_ASSESS    2.39    3897    75.9    2.0   
+Health Sciences North                        North       Teaching          202412    WT_PHYS_ASSESS    2.64    5409    66.9    2.0   
+London Victoria Hospital                     West        Teaching          2025-01   LOS_LOW_URGENCY   5.42    3526    65.4    4.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-05-01LOS_ADMITTED      17.81   1092    25.0    8.0   
+HSN Sudbury                                  North       Teaching          10/2025   LOS_HIGH_URGENCY  6.4     2055    95.0    8.0   
+Hamilton Health Sciences - General           West        Teaching          12/2024   LOS_LOW_URGENCY   5.79    2526    56.4    4.0   
+Sudbury Regional Hospital                    North       Teaching          2024-11   LOS_ADMITTED      17.18   964     25.0    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   4/2025    LOS_ADMITTED      15.45   1030    34.6    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          11/2025   LOS_HIGH_URGENCY  6.64    1970    93.4    8.0   
+NYGH                                         TORONTO     Large Community   202410    LOS_HIGH_URGENCY  8.56    1880            8.0   
+TOH Civic                                    East        Teaching          10/2024   LOS_HIGH_URGENCY  6.46    1607    90.1%   8.0   
+Grand River Hospital                         West        Large Community   202501    LOS_HIGH_URGENCY  7.79    2193    84.4    8.0   
+Lakeridge Health - Oshawa                    Central     Large Community   202511    WT_PHYS_ASSESS    2.14    5194    77.6    2.0   
+Brampton Civic Hospital                      Central     Large Community   2025-05-01LOS_ADMITTED      16.96   880     25.0    8.0   
+Hamilton Health Sciences - General           West        Teaching          1/2025    LOS_LOW_URGENCY   6.89    2923    45.6    4.0   
+Markham Stouffville Hospital                 Central     Large Community   202508    LOS_LOW_URGENCY   4.81    2705            4.0   
+Grand River Hosp                             West        Large Community   7/2024    LOS_HIGH_URGENCY  7.26    2055    86.9    8.0   
+LHSC Victoria                                West        Teaching          202505    WT_PHYS_ASSESS    2.04    4172    81.9    2.0   
+Kingston General Hospital                    East        Teaching          9/2024    LOS_LOW_URGENCY   5.54    3134    60.5    4.0   
+KHSC                                         East        Teaching          2024-11-01LOS_ADMITTED      15.34   896     36.0    8.0   
+UHN - Toronto General                        Toronto     Teaching          2025-04-01LOS_LOW_URGENCY   5.94    3370    59.5    4.0   
+Windsor Ouellette Campus                     West        Large Community   202509    LOS_ADMITTED      12.88   858     48.8    8.0   
+Hamilton Health Sciences - General           West        Teaching          2024-11-01LOS_ADMITTED      15.98   847     29.7    8.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-06   WT_PHYS_ASSESS    2.04    4798    85.5    2.0   
+HHS General Site                             West        Teaching          8/2024    LOS_LOW_URGENCY   5.49    2182    66.1    4.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-03   LOS_HIGH_URGENCY  8.24    1739    82.5    8.0   
+Lakeridge Oshawa                             Central     Large Community   2024-08   WT_PHYS_ASSESS    2.26    4724    78.2    2.0   
+Toronto General Hosp.                        Toronto     Teaching          10/2025   LOS_LOW_URGENCY   5.06    2442    71.5    4.0   
+Scarborough General                          Toronto     Large Community   2025-09-01LOS_ADMITTED      16.75   753     25.0    8.0   
+WRH Ouellette                                West        Large Community   5/2025    LOS_ADMITTED      16.1    865     27.2    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-11   LOS_LOW_URGENCY   5.14    2923    67.5    4.0   
+RVH Barrie                                   Central     Large Community   2025-06   WT_PHYS_ASSESS    1.95    4923    85.3    2.0   
+Brampton Civic Hospital                      Central     Large Community   202409    WT_PHYS_ASSESS    2.14    5238    77.7    2.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2024-10-01LOS_HIGH_URGENCY  8.72    1613            8.0   
+St. Michael's Hospital                       Toronto     Teaching          2024-10-01WT_PHYS_ASSESS    2.3     4218    78.1    2.0   
+London Victoria Hospital                     West        Teaching          202505    LOS_ADMITTED      15.92   802     33.0    8.0   
+Health Sciences North                        North       Teaching          2025-04   WT_PHYS_ASSESS    2.17    4256    80.6    2.0   
+TOH Civic                                    East        Teaching          2024-12-01LOS_ADMITTED      19.33   847     25.0    8.0   
+LHSC Victoria                                West        Teaching          3/2025    WT_PHYS_ASSESS    2.0     4807            2.0   
+North York General                           Toronto     Large Community   2025-03-01LOS_HIGH_URGENCY  7.94    1685    85.3    8.0   
+SHN General                                  Toronto     Large Community   202507    LOS_ADMITTED              1066    41.3    8.0   
+Kingston General Hospital                    East        Teaching          2025-04-01LOS_ADMITTED      17.86   987     25.0    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          5/2025    LOS_HIGH_URGENCY  6.1     2331    95.0    8.0   
+Grand River Hospital                         West        Large Community   2025-02   LOS_LOW_URGENCY   5.72    3399    62.8    4.0   
+London Health Sciences Centre - Victoria     West        Teaching          2024-11-01LOS_LOW_URGENCY   5.26    2482    70.0    4.0   
+THP Mississauga                              Central     Large Community   202511    LOS_HIGH_URGENCY  6.85    2295    94.2    8.0   
+London Victoria Hospital                     West        Teaching          202508    LOS_ADMITTED      15.48   1001    32.8    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   202507    LOS_ADMITTED      16.28   904     30.2    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2025-08-01LOS_HIGH_URGENCY  6.68    1847    95.0    8.0   
+THP Mississauga                              Central     Large Community   9/2024    LOS_LOW_URGENCY   5.34    2450    63.2    4.0   
+Toronto General Hosp.                        Toronto     Teaching          2024-10   LOS_HIGH_URGENCY  6.92    2319    88.4    8.0   
+GRH Kitchener                                West        Large Community   2025-11   LOS_LOW_URGENCY   5.48    2583    61.2    4.0   
+London Health Sciences Centre - Victoria     WEST        Teaching          12/2025   LOS_LOW_URGENCY   -1.0    3408    95.0    4.0   
+St Catharines General                        West        Large Community   2024-11   los_low_urgency   4.56    3008    75.3    4.0   
+St. Michael's Hospital                       Toronto     Teaching          2025-10   LOS_ADMITTED      17.24   1007    25.0    8.0   
+HSN Sudbury                                  North       Teaching          2024-08   WT_PHYS_ASSESS    1.97    3981    83.0    2.0   
+Brampton Civic Hospital                      Central     Large Community   2024-08-01LOS_LOW_URGENCY   4.56    2979    74.7    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2024-09   LOS_HIGH_URGENCY  8.31    2296            8.0   
+TBRHSC                                       North       Teaching          2024-10-01LOS_HIGH_URGENCY  6.14    2332    95.0    8.0   
+LHSC Victoria                                West        Teaching          202505    LOS_LOW_URGENCY   4.71    2680    70.0    4.0   
+Lakeridge Health - Oshawa                    Central     Large Community   2025-10   WT_PHYS_ASSESS    2.33    4595    73.1    2.0   
+William Osler Health System - Brampton Civic Central     Large Community   9/2025    LOS_HIGH_URGENCY  6.08    1768    95.0    8.0   
+Thunder Bay Regional                         North       Teaching          5/2025    LOS_HIGH_URGENCY  6.37    2277    95.0    8.0   
+TBRHSC                                       North       Teaching          202502    WT_PHYS_ASSESS    2.93    3777    60.9    2.0   
+THP Mississauga                              Central     Large Community   7/2025    LOS_HIGH_URGENCY          1582    95.0    8.0   
+PRHC                                         East        Large Community   1/2025    LOS_ADMITTED      16.69   1245    25.1    8.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-04-01LOS_LOW_URGENCY   4.88    3259    68.5    4.0   
+St Catharines General                        West        Large Community   2024-08   LOS_ADMITTED      13.5    1064    45.4    8.0   
+TORONTO GENERAL                              Toronto     Teaching          2025-02   LOS_LOW_URGENCY   6.32    3893    49.0    4.0   
+Lakeridge Oshawa                             Central     Large Community   2024-07   wt_phys_assess    1.77    4870    91.4    2.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-07-01LOS_HIGH_URGENCY  6.75    2086    95.0    8.0   
+Niagara Health - St. Catharines              West        Large Community   8/2025    LOS_ADMITTED      12.04   894     54.0    8.0   
+Mississauga Hospital                         Central     Large Community   4/2025    LOS_ADMITTED      15.65   922     28.9    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-10   LOS_ADMITTED      14.03   934     43.4    8.0   
+Brampton Civic Hospital                      Central     Large Community   12/2024   WT_PHYS_ASSESS    2.23    5424    79.0    2.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2024-11   LOS_HIGH_URGENCY  8.04    1952    82.7    8.0   
+Toronto General Hospital                     Toronto     Teaching          5/2025    LOS_LOW_URGENCY   6.52    3398    45.5    4.0   
+WRH Ouellette                                West        Large Community   6/2025    LOS_HIGH_URGENCY  6.04    1761    95.0    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-02   WT_PHYS_ASSESS    2.93    5578    55.4    2.0   
+Hamilton General                             West        Teaching          11/2024   LOS_LOW_URGENCY   5.19    2977    67.7    4.0   
+Kingston General Hospital                    East        Teaching          2025-07-01WT_PHYS_ASSESS    -1.0    3816    95.0    2.0   
+Sunnybrook HSC                               Toronto     Teaching          7/2024    LOS_ADMITTED      16.8    947     25.7    8.0   
+SHN General                                  Toronto     Large Community   202505    WT_PHYS_ASSESS    2.41    4162    75.0    2.0   
+Markham Stouffville Hospital                 Central     Large Community   8/2025    LOS_HIGH_URGENCY  7.75    1563    82.0    8.0   
+North York General                           Toronto     Large Community   2025-05-01WT_PHYS_ASSESS    2.58    4488    64.7    2.0   
+Oak Valley Health - Markham                  Central     Large Community   7/2025    LOS_ADMITTED      16.08   1035    29.4    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          202511    LOS_LOW_URGENCY   5.06    2285    71.0    4.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          202411    LOS_ADMITTED      18.27   871     25.0    8.0   
+Osler Brampton Civic                         Central     Large Community   2025-04-01WT_PHYS_ASSESS    2.47    4271    73.3    2.0   
+St Catharines General                        West        Large Community   2025-07-01LOS_LOW_URGENCY   4.83    2304    74.0    4.0   
+Markham Stouffville                          Central     Large Community   202411    LOS_ADMITTED      12.77   1089    51.4    8.0   
+TORONTO GENERAL                              Toronto     Teaching          2024-12   LOS_ADMITTED      17.09   934     25.0    8.0   
+Markham Stouffville                          Central     Large Community   2025-08-01WT_PHYS_ASSESS    2.34    4450    77.1    2.0   
+RVH Barrie                                   Central     Large Community   2025-10-01LOS_LOW_URGENCY   4.74    2334    76.7    4.0   
+Lakeridge Oshawa                             Central     Large Community   2024-07-01LOS_LOW_URGENCY   5.56    2628    65.9%   4.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          202510    LOS_ADMITTED      17.97   757     25.0    8.0   
+TOH Civic                                    East        Teaching          2024-10-01LOS_LOW_URGENCY   4.37    3256    79.4    4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   202506    LOS_HIGH_URGENCY  5.57    1486    95.0    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   202507    LOS_LOW_URGENCY   5.37    2869    68.5    4.0   
+Thunder Bay Regional                         North       Teaching          12/2024   LOS_LOW_URGENCY   5.49    3908    66.9    4.0   
+Brampton Civic Hospital                      Central     Large Community   2024-12   LOS_HIGH_URGENCY  8.06    2311    86.9    8.0   
+LHSC Victoria                                WEST        Teaching          6/2025    LOS_ADMITTED      13.93   1067    45.8    8.0   
+Niagara Health - St. Catharines              West        Large Community   2025-09-01los_low_urgency   5.54    2981    64.3    4.0   
+KHSC                                         East        Teaching          2025-04-01LOS_HIGH_URGENCY  6.58    1567    89.9    8.0   
+KHSC                                         East        Teaching          3/2025    LOS_ADMITTED      15.36   778     34.6    8.0   
+Health Sciences North                        North       Teaching          2025-12-01LOS_HIGH_URGENCY  7.09    1740    90.5    8.0   
+NYGH                                         Toronto     Large Community   2025-09-01WT_PHYS_ASSESS    2.63    4444    63.9    2.0   
+St Catharines General                        West        Large Community   202407    LOS_HIGH_URGENCY  6.87    1657    91.8    8.0   
+Osler Brampton Civic                         Central     Large Community   202503    LOS_LOW_URGENCY   5.61    2725            4.0   
+NYGH                                         Toronto     Large Community   2024-12-01WT_PHYS_ASSESS    2.3     4774    73.0    2.0   
+SHN General                                  Toronto     Large Community   202410    WT_PHYS_ASSESS    2.53    4548    72.9    2.0   
+HHS General Site                             West        Teaching          11/2025   WT_PHYS_ASSESS    2.27    3853    74.8    2.0   
+Toronto General Hospital                     Toronto     Teaching          2025-09   LOS_HIGH_URGENCY  7.01    1783    90.0    8.0   
+St Catharines General                        West        Large Community   202409    LOS_LOW_URGENCY   5.23    3186    66.2    4.0   
+Markham Stouffville                          Central     Large Community   2025-07   LOS_HIGH_URGENCY  6.27    2116    95.0    8.0   
+Lakeridge Oshawa                             Central     Large Community   2024-09   WT_PHYS_ASSESS    1.96    3454    87.2    2.0   
+St Michaels Hospital                         Toronto     Teaching          2025-09   LOS_LOW_URGENCY   6.32    2890    49.4    4.0   
+London Victoria Hospital                     West        Teaching          2025-06-01LOS_LOW_URGENCY   4.22    3166    77.3    4.0   
+Ottawa Hospital - Civic Campus               East        Teaching          5/2025    LOS_ADMITTED      13.24   1053    44.9    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   6/2025    WT_PHYS_ASSESS    1.92    4454    82.5    2.0   
+Peterborough Regional Health Centre          East        Large Community   2025-02-01LOS_LOW_URGENCY   5.93    2952            4.0   
+Health Sciences North                        North       Teaching          2025-09   WT_PHYS_ASSESS    2.57    3466    65.4    2.0   
+London Victoria Hospital                     West        Teaching          2025-11-01LOS_ADMITTED      17.59   825     25.0    8.0   
+Health Sciences North                        North       Teaching          202508    LOS_HIGH_URGENCY  6.05    1474    94.9    8.0   
+Sudbury Regional Hospital                    North       Teaching          202410    WT_PHYS_ASSESS    2.62    3882    63.8    2.0   
+Royal Victoria Regional Health Centre        Central     Large Community   202503    LOS_LOW_URGENCY   4.36    3250    75.1    4.0   
+Lakeridge Health - Oshawa                    Central     Large Community   2025-04-01LOS_HIGH_URGENCY  8.06    1852    86.4    8.0   
+NYGH                                         Toronto     Large Community   2024-07-01LOS_ADMITTED      15.62   723     29.2    8.0   
+Oshawa General                               Central     Large Community   202508    LOS_ADMITTED      14.39   990     40.5    8.0   
+St. Michael's Hospital                       Toronto     Teaching          2025-08-01LOS_HIGH_URGENCY  6.49    1624    93.5    8.0   
+Windsor Ouellette Campus                     West        Large Community   12/2024   LOS_HIGH_URGENCY  7.19    2220    87.9    8.0   
+HSN Sudbury                                  North       Teaching          2025-10-01LOS_LOW_URGENCY   5.21    2564    64.0    4.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-03-01LOS_LOW_URGENCY   4.63    2287    70.8    4.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-03   LOS_LOW_URGENCY   5.95    3237    54.1    4.0   
+Peterborough Regional Health Centre          East        Large Community   11/2024   LOS_LOW_URGENCY   4.32    2611    76.0    4.0   
+TBRHSC                                       North       Teaching          2025-01   LOS_HIGH_URGENCY  9.27    1870            8.0   
+Grand River Hospital                         West        Large Community   202408    LOS_HIGH_URGENCY  6.2     1653    95.0    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          2024-08-01LOS_ADMITTED      15.04   857     36.4    8.0   
+THP Mississauga                              Central     Large Community   8/2024    LOS_LOW_URGENCY   4.58            73.9    4.0   
+Kingston General Hospital                    East        Teaching          2024-11   LOS_LOW_URGENCY   4.82    2279    71.3    4.0   
+Scarborough Health Network - General         Toronto     Large Community   202410    LOS_HIGH_URGENCY  8.44    2128    76.9    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2025-10-01LOS_LOW_URGENCY   5.88    2401    57.1    4.0   
+Grand River Hospital                         West        Large Community   2025-10   WT_PHYS_ASSESS    2.22    3988    80.8    2.0   
+Grand River Hospital                         West        Large Community   2024-09   WT_PHYS_ASSESS    1.73    3803    88.8    2.0   
+TOH Civic                                    East        Teaching          202409    wt_phys_assess    2.49    3609    67.4    2.0   
+Unity Health - St. Michael's                 Toronto     Teaching          9/2024    WT_PHYS_ASSESS    2.6     3619    70.3    2.0   
+Lakeridge Health - Oshawa                    Central     Large Community   5/2025    LOS_ADMITTED      14.75   872     40.9    8.0   
+Peterborough Regional                        East        Large Community   2024-10   LOS_HIGH_URGENCY  7.18    1979    87.4    8.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-11-01LOS_ADMITTED      13.61   1038    44.2    8.0   
+TBRHSC                                       North       Teaching          202509    WT_PHYS_ASSESS    2.61    5010    67.7    2.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-12   WT_PHYS_ASSESS    2.96    4634    60.0    2.0   
+Oak Valley Health - Markham                  Central     Large Community   2024-07-01LOS_LOW_URGENCY   5.67    2523    64.4    4.0   
+TORONTO GENERAL                              Toronto     Teaching          2025-04   WT_PHYS_ASSESS    2.23    4963    80.9    2.0   
+Thunder Bay Regional                         North       Teaching          2024-08   LOS_LOW_URGENCY   4.51    2353    73.9    4.0   
+HSN Sudbury                                  North       Teaching          2025-12-01WT_PHYS_ASSESS    2.15    5082    80.9    2.0   
+Scarborough Health Network - General         Toronto     Large Community   3/2025    WT_PHYS_ASSESS    2.4     4657    70.4    2.0   
+Peterborough Regional Health Centre          East        Large Community   2024-11-01WT_PHYS_ASSESS    1.78    4756    87.0    2.0   
+Scarborough General                          Toronto     Large Community   3/2025    LOS_LOW_URGENCY   6.19    3399    52.0    4.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          202509    LOS_LOW_URGENCY   5.28    3010    68.8    4.0   
+WRH Ouellette                                West        Large Community   2025-01-01LOS_LOW_URGENCY   5.14    2853    67.0    4.0   
+TORONTO GENERAL                              Toronto     Teaching          9/2024    LOS_HIGH_URGENCY  8.62            79.1    8.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-12   LOS_LOW_URGENCY   5.81    2728    61.9    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-09-01WT_PHYS_ASSESS    2.1     4724    77.6    2.0   
+Scarborough General                          Toronto     Large Community   8/2024    LOS_ADMITTED              737     38.5    8.0   
+Brampton Civic Hospital                      Central     Large Community   2025-05   WT_PHYS_ASSESS    2.26    3506    73.3    2.0   
+Oshawa General                               Central     Large Community   202509    LOS_ADMITTED      15.03   1065    32.4    8.0   
+London Victoria Hospital                     West        Teaching          2024-09   WT_PHYS_ASSESS    1.91    5130    88.1    2.0   
+LHSC Victoria                                West        Teaching          12/2025   LOS_ADMITTED      18.37   1211    25.0    8.0   
+Niagara Health - St. Catharines              West        Large Community   202504    LOS_ADMITTED      12.34   934     53.1    8.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-05   WT_PHYS_ASSESS    2.06    4048    84.2    2.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   11/2024   LOS_ADMITTED      15.94   944             8.0   
+Mississauga Hospital                         CENTRAL     Large Community   2025-03-01LOS_LOW_URGENCY   4.81    3075    71.9    4.0   
+GRH Kitchener                                West        Large Community   2024-11-01WT_PHYS_ASSESS    2.31    3389    76.8    2.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-12   LOS_HIGH_URGENCY  7.87    2275    81.1    8.0   
+Peterborough Regional Health Centre          EAST        Large Community   2024-07-01LOS_LOW_URGENCY   3.86    3322    89.1    4.0   
+Scarborough Health Network - General         Toronto     Large Community   202502    WT_PHYS_ASSESS    2.55    5301            2.0   
+Health Sciences North                        North       Teaching          2024-09   LOS_HIGH_URGENCY  7.89    1776    87.6    8.0   
+Niagara Health SCS                           West        Large Community   202412    LOS_HIGH_URGENCY  8.17    2373    82.3    8.0   
+RVH Barrie                                   Central     Large Community   202512    WT_PHYS_ASSESS    2.12    3827    76.8    2.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   12/2024   WT_PHYS_ASSESS    1.92    4831    88.5    2.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-12-01LOS_LOW_URGENCY   5.84    2940    60.0    4.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-12-01WT_PHYS_ASSESS    2.8     5651    62.4    2.0   
+Lakeridge Oshawa                             Central     Large Community   202511    LOS_ADMITTED      13.03   927     51.6    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-04   LOS_HIGH_URGENCY  -1.0    2362    95.0    8.0   
+Toronto General Hosp.                        Toronto     Teaching          10/2025   WT_PHYS_ASSESS    2.65    3691    66.6    2.0   
+Sudbury Regional Hospital                    North       Teaching          2025-05   LOS_ADMITTED      18.28   1006    25.0    8.0   
+Markham Stouffville                          Central     Large Community   2025-02-01LOS_HIGH_URGENCY  7.15    1735    90.7    8.0   
+Sudbury Regional Hospital                    North       Teaching          2024-12   LOS_ADMITTED      19.43   1185    25.0    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-03   LOS_ADMITTED      17.53   1120    25.0    8.0   
+HSN Sudbury                                  North       Teaching          202507    LOS_ADMITTED      17.32   998     25.0    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   2025-11-01WT_PHYS_ASSESS    2.15    3867    77.1    2.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-09-01LOS_HIGH_URGENCY  9.18    2363    78.5    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   6/2025    LOS_LOW_URGENCY   4.76    3134    74.6    4.0   
+Hamilton Health Sciences - General           West        Teaching          10/2024   LOS_LOW_URGENCY   5.43    3064    66.6    4.0   
+Osler Brampton Civic                         Central     Large Community   2025-08-01LOS_LOW_URGENCY   4.81    2419    72.4    4.0   
+Ottawa Hospital - Civic Campus               EAST        Teaching          7/2024    LOS_HIGH_URGENCY  7.28    1792    85.5    8.0   
+Mississauga Hospital                         CENTRAL     Large Community   2025-10   WT_PHYS_ASSESS    2.44    3409    74.9    2.0   
+Oshawa General                               Central     Large Community   202407    LOS_HIGH_URGENCY  6.05    1693    95.0    8.0   
+Toronto General Hospital                     Toronto     Teaching          2025-08-01LOS_ADMITTED      15.76   1033    31.1    8.0   
+PRHC                                         East        Large Community   202412    LOS_LOW_URGENCY   5.95    3688    60.1    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2024-12   LOS_HIGH_URGENCY  -1.0    1915    95.0    8.0   
+Kingston General Hospital                    East        Teaching          202509    WT_PHYS_ASSESS    2.46    4149    67.0    2.0   
+Lakeridge Oshawa                             Central     Large Community   7/2025    LOS_HIGH_URGENCY  7.06    2083    90.3    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2024-11-01LOS_ADMITTED      16.14   1105    25.9    8.0   
+St. Michael's Hospital                       Toronto     Teaching          2025-02-01WT_PHYS_ASSESS    2.79    5811    60.5    2.0   
+Sunnybrook HSC                               Toronto     Teaching          202512    LOS_LOW_URGENCY   7.4     3432    33.8    4.0   
+Niagara Health SCS                           West        Large Community   8/2024    LOS_LOW_URGENCY   5.33    3271    65.1    4.0   
+WRH Ouellette                                West        Large Community   7/2025    LOS_ADMITTED      13.04   840     52.3    8.0   
+Oak Valley Health - Markham                  Central     Large Community   2025-01   los_low_urgency   6.34    2621    50.7    4.0   
+TORONTO GENERAL                              Toronto     Teaching          2025-08-01LOS_HIGH_URGENCY  6.43    1955    91.0    8.0   
+Grand River Hosp                             West        Large Community   12/2024   LOS_ADMITTED      16.59   1037    25.0    8.0   
+Hamilton General                             West        Teaching          202502    LOS_HIGH_URGENCY  8.68    1726    78.4    8.0   
+Grand River Hosp                             West        Large Community   2025-04   LOS_ADMITTED      14.18   1021    41.6    8.0   
+HHS General Site                             West        Teaching          7/2025    LOS_ADMITTED      13.49   917     46.6    8.0   
+Royal Victoria Barrie                        Central     Large Community   9/2024    LOS_ADMITTED      15.46   996     35.1    8.0   
+Oshawa General                               Central     Large Community   2/2025    WT_PHYS_ASSESS    2.3     4430    73.8    2.0   
+NYGH                                         Toronto     Large Community   202502    LOS_HIGH_URGENCY  9.54            76.7    8.0   
+Niagara Health - St. Catharines              West        Large Community   2025-08-01LOS_LOW_URGENCY   4.7     2744    71.0    4.0   
+Grand River Hospital                         West        Large Community   202509    WT_PHYS_ASSESS    -1.0    4773    95.0    2.0   
+KHSC                                         East        Teaching          2025-09-01LOS_ADMITTED      12.78   974     50.0    8.0   
+Osler Brampton Civic                         Central     Large Community   2024-11-01LOS_ADMITTED      16.62           28.1    8.0   
+Grand River Hosp                             West        Large Community   11/2025   LOS_HIGH_URGENCY  7.09    1665    87.5    8.0   
+Mississauga Hospital                         Central     Large Community   202411    WT_PHYS_ASSESS    -1.0    4785    95.0    2.0   
+St. Michael's Hospital                       Toronto     Teaching          10/2024   LOS_HIGH_URGENCY  6.8     2092    87.8    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2/2025    LOS_LOW_URGENCY   6.29    3904    50.3    4.0   
+William Osler Health System - Brampton Civic Central     Large Community   202506    LOS_ADMITTED      16.04   1065    25.8    8.0   
+London Victoria Hospital                     West        Teaching          1/2025    WT_PHYS_ASSESS    2.19            78.4    2.0   
+THP Mississauga                              Central     Large Community   2025-09-01WT_PHYS_ASSESS    1.99    5017    83.2    2.0   
+Windsor Ouellette Campus                     West        Large Community   2024-09-01LOS_ADMITTED      12.48   1008            8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2024-08-01LOS_LOW_URGENCY   5.14    2657    68.5    4.0   
+Grand River Hospital                         West        Large Community   2024-10   LOS_HIGH_URGENCY  5.7     1829    95.0    8.0   
+Osler Brampton Civic                         Central     Large Community   202505    LOS_HIGH_URGENCY  7.75    2054    81.5    8.0   
+Markham Stouffville                          Central     Large Community   12/2025   wt_phys_assess    2.78    4587    62.5    2.0   
+NYGH                                         Toronto     Large Community   202503    LOS_ADMITTED      16.99   1079    25.0    8.0   
+RVH Barrie                                   Central     Large Community   2024-10   LOS_ADMITTED      16.75   1110    25.0    8.0   
+THP Mississauga                              Central     Large Community   2025-05-01LOS_ADMITTED      16.25           30.2    8.0   
+Kingston Health Sciences Centre              East        Teaching          2025-09   LOS_HIGH_URGENCY  6.95    2007    93.7    8.0   
+WRH Ouellette                                West        Large Community   2025-05-01LOS_HIGH_URGENCY  6.58    2248    94.1    8.0   
+Thunder Bay Regional                         North       Teaching          2024-07   LOS_ADMITTED      14.29   1043    42.1    8.0   
+Hamilton Health Sciences - General           West        Teaching          2025-09-01LOS_ADMITTED      15.76   1038    27.4%   8.0   
+HSN Sudbury                                  North       Teaching          2024-10   LOS_HIGH_URGENCY  7.98    2135    80.6    8.0   
+Scarborough Health Network - General         Toronto     Large Community   202507    WT_PHYS_ASSESS    1.85    3923    83.9    2.0   
+UHN - Toronto General                        Toronto     Teaching          7/2025    LOS_ADMITTED      16.17   801     25.0    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2024-08   LOS_LOW_URGENCY   4.88    2134    70.8    4.0   
+TORONTO GENERAL                              Toronto     Teaching          202506    LOS_LOW_URGENCY   5.96    2218    59.3    4.0   
+THP Mississauga                              Central     Large Community   2025-01   LOS_LOW_URGENCY   5.42    3039    67.1    4.0   
+THP Mississauga                              Central     Large Community   202511    LOS_LOW_URGENCY   5.37    2786    66.1    4.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-02-01LOS_HIGH_URGENCY  8.79    2254    75.4    8.0   
+Sunnybrook HSC                               Toronto     Teaching          202501    WT_PHYS_ASSESS    2.41    5360    72.2    2.0   
+Markham Stouffville                          Central     Large Community   2025-09   LOS_ADMITTED      15.72   1009    33.6    8.0   
+RVH Barrie                                   Central     Large Community   9/2025    WT_PHYS_ASSESS    1.93    4537    84.5%   2.0   
+St Michaels Hospital                         Toronto     Teaching          2025-01   LOS_ADMITTED      18.17   995     25.0    8.0   
+KHSC                                         East        Teaching          7/2025    LOS_LOW_URGENCY   5.16    2377    67.5    4.0   
+Thunder Bay Regional                         North       Teaching          202510    WT_PHYS_ASSESS    2.03    4912    80.0    2.0   
+Markham Stouffville Hospital                 Central     Large Community   202509    LOS_HIGH_URGENCY  5.95    2297    95.0    8.0   
+Kingston Health Sciences Centre              East        Teaching          5/2025    LOS_HIGH_URGENCY  5.94    1641    95.0%   8.0   
+St Catharines General                        West        Large Community   202410    WT_PHYS_ASSESS    1.74    3408    87.3    2.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   202503    WT_PHYS_ASSESS    1.85    5233    85.4    2.0   
+Hamilton General                             West        Teaching          202503    WT_PHYS_ASSESS    2.37    5205            2.0   
+WRH Ouellette                                West        Large Community   12/2025   LOS_ADMITTED      16.46   962     25.0    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   1/2025    LOS_HIGH_URGENCY  8.91    2450    77.3    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-01   LOS_ADMITTED      15.0    880     32.5    8.0   
+SUNNYBROOK                                   Toronto     Teaching          9/2024    LOS_ADMITTED      16.53   899     25.0    8.0   
+HSN Sudbury                                  North       Teaching          2024-08-01LOS_HIGH_URGENCY  6.87    1534    90.9    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   2025-09   LOS_ADMITTED      16.97   948     25.0    8.0   
+Hamilton Health Sciences - General           West        Teaching          2025-08   WT_PHYS_ASSESS    2.24    4848    73.9    2.0   
+Niagara Health SCS                           West        Large Community   2025-07-01LOS_ADMITTED      12.56   995     53.8    8.0   
+Peterborough Regional Health Centre          East        Large Community   2025-01   WT_PHYS_ASSESS    2.5     3856    71.3    2.0   
+WRH Ouellette                                West        Large Community   202502    LOS_LOW_URGENCY   5.11    2580    67.8    4.0   
+Kingston General Hospital                    East        Teaching          10/2024   LOS_ADMITTED      15.81   799     28.2    8.0   
+Mississauga Hospital                         Central     Large Community   9/2024    LOS_ADMITTED              767     39.8    8.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-05-01LOS_HIGH_URGENCY  6.7     1930    95.0    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-12-01LOS_ADMITTED      19.78   1068    25.0    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          7/2024    LOS_LOW_URGENCY   4.61    3174    74.1    4.0   
+GRH Kitchener                                West        Large Community   2025-01   WT_PHYS_ASSESS    2.64    4972    69.2    2.0   
+St Michaels Hospital                         Toronto     Teaching          2025-07-01LOS_LOW_URGENCY   5.75    2960    57.8    4.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   8/2025    LOS_ADMITTED      12.41   947     50.0    8.0   
+Toronto General Hospital                     Toronto     Teaching          202409    WT_PHYS_ASSESS    2.52    4244    70.8    2.0   
+TBRHSC                                       North       Teaching          11/2025   LOS_LOW_URGENCY   4.52    2718    79.9    4.0   
+Ottawa Hospital - Civic Campus               East        Teaching          202504    LOS_HIGH_URGENCY  8.17    2222    80.5    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2024-07   LOS_HIGH_URGENCY  8.07    1991    82.0    8.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-11   LOS_HIGH_URGENCY  8.51    2147    80.1    8.0   
+Sudbury Regional Hospital                    North       Teaching          2025-09-01LOS_ADMITTED      13.49   940     46.9    8.0   
+St. Michael's Hospital                       Toronto     Teaching          202509    LOS_HIGH_URGENCY  8.56            77.3    8.0   
+PRHC                                         East        Large Community   2025-02-01LOS_HIGH_URGENCY  7.65    1787    86.4    8.0   
+Grand River Hospital                         West        Large Community   2024-11   LOS_ADMITTED      15.72   1013    33.6    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          202501    LOS_ADMITTED      17.76   1124    25.0    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          2024-09   LOS_HIGH_URGENCY  7.3     1752    89.1    8.0   
+TORONTO GENERAL                              Toronto     Teaching          9/2024    LOS_HIGH_URGENCY  8.72            79.1    8.0   
+Kingston General Hospital                    East        Teaching          2025-02-01LOS_HIGH_URGENCY  7.27    1796    86.5    8.0   
+Hamilton General                             West        Teaching          5/2025    LOS_ADMITTED      16.14   1031    27.3    8.0   
+Niagara Health - St. Catharines              West        Large Community   202409    WT_PHYS_ASSESS    1.81    4617    91.5    2.0   
+Unity Health - St. Michael's                 TORONTO     Teaching          5/2025    LOS_HIGH_URGENCY  9.2     1565    78.9    8.0   
+TOH Civic                                    East        Teaching          202411    LOS_HIGH_URGENCY  7.16    2200    88.0    8.0   
+Peterborough Regional Health Centre          East        Large Community   3/2025    LOS_HIGH_URGENCY  6.85    1988    90.4    8.0   
+Niagara Health - St. Catharines              West        Large Community   9/2025    los_admitted      12.53   725     54.0    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   202504    LOS_HIGH_URGENCY  6.43    1702    93.0    8.0   
+TORONTO GENERAL                              Toronto     Teaching          7/2025    LOS_HIGH_URGENCY  7.5     2088    88.3    8.0   
+TBRHSC                                       North       Teaching          2024-10   WT_PHYS_ASSESS    1.95    4733    86.5    2.0   
+Niagara Health SCS                           West        Large Community   202504    LOS_HIGH_URGENCY  7.57    2315    89.3    8.0   
+Mississauga Hospital                         Central     Large Community   202411    LOS_ADMITTED      13.04   1060    48.8    8.0   
+St. Michael's Hospital                       Toronto     Teaching          10/2024   LOS_ADMITTED      18.61   724     25.0    8.0   
+Lakeridge Oshawa                             Central     Large Community   2025-01-01LOS_LOW_URGENCY   4.92    3757    70.3%   4.0   
+WRH Ouellette                                West        Large Community   2025-09   LOS_LOW_URGENCY   5.51    2244    66.4    4.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-04-01LOS_LOW_URGENCY   5.5     2918    63.5    4.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          7/2024    los_low_urgency   5.43    2367    63.4    4.0   
+Royal Victoria Barrie                        Central     Large Community   202512    LOS_LOW_URGENCY   5.25    2621    69.9    4.0   
+Toronto General Hosp.                        Toronto     Teaching          2024-11   LOS_LOW_URGENCY           3377    70.8    4.0   
+LHSC Victoria                                West        Teaching          8/2024    LOS_HIGH_URGENCY  5.84    1575    95.0    8.0   
+NYGH                                         Toronto     Large Community   202511    LOS_HIGH_URGENCY  6.94    2304    92.8    8.0   
+Kingston General Hospital                    East        Teaching          202510    WT_PHYS_ASSESS    1.86    5024    86.3    2.0   
+WRH Ouellette                                WEST        Large Community   8/2025    LOS_LOW_URGENCY   -1.0    2414    95.0    4.0   
+Lakeridge Oshawa                             Central     Large Community   10/2024   LOS_LOW_URGENCY   5.35    3448    66.8    4.0   
+NYGH                                         Toronto     Large Community   11/2024   LOS_LOW_URGENCY   6.22    2369    55.9    4.0   
+HHS General Site                             West        Teaching          2025-08   LOS_ADMITTED      16.16   977     29.5    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   202510    LOS_HIGH_URGENCY  6.5     1647    95.0    8.0   
+Grand River Hosp                             West        Large Community   7/2024    LOS_ADMITTED      13.27   970     50.9    8.0   
+HHS General Site                             West        Teaching          202510    LOS_HIGH_URGENCY  7.62    1827    88.3    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-03   LOS_ADMITTED      18.28   1029    25.0    8.0   
+London Health Sciences Centre - Victoria     West        Teaching          2024-12-01LOS_LOW_URGENCY   5.95    3476    53.2    4.0   
+Markham Stouffville Hospital                 Central     Large Community   202410    LOS_HIGH_URGENCY  8.02    1840    82.1    8.0   
+GRH Kitchener                                West        Large Community   2025-09-01LOS_ADMITTED      12.95   1064    50.6    8.0   
+Oshawa General                               Central     Large Community   2025-07-01WT_PHYS_ASSESS    2.34    4956    71.5    2.0   
+Grand River Hosp                             West        Large Community   2025-12-01LOS_HIGH_URGENCY  7.96    2402    82.5    8.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-04   LOS_LOW_URGENCY   4.3     2973    78.4    4.0   
+Osler Brampton Civic                         Central     Large Community   2024-07   WT_PHYS_ASSESS    2.29    4159    71.6    2.0   
+Toronto General Hospital                     Toronto     Teaching          2024-10   LOS_LOW_URGENCY   -1.0    2981    95.0    4.0   
+Niagara Health SCS                           West        Large Community   2025-05   LOS_HIGH_URGENCY  7.45    1585    85.6    8.0   
+Kingston General Hospital                    East        Teaching          2024-11-01LOS_HIGH_URGENCY  7.19    2241            8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2024-08-01WT_PHYS_ASSESS    2.33    4522    70.6    2.0   
+Lakeridge Health - Oshawa                    Central     Large Community   8/2025    LOS_LOW_URGENCY   4.42    3118    77.1    4.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-11   LOS_HIGH_URGENCY  8.19    2108    86.1    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-04   LOS_LOW_URGENCY   6.66    2374    44.9    4.0   
+The Ottawa Hospital Civic                    East        Teaching          12/2024   LOS_HIGH_URGENCY  6.92    2439    90.2    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-05   WT_PHYS_ASSESS    1.98    3616    85.0    2.0   
+UHN - Toronto General                        Toronto     Teaching          2/2025    WT_PHYS_ASSESS    2.69    4409    63.7    2.0   
+Kingston General Hospital                    East        Teaching          11/2025   LOS_LOW_URGENCY   6.04    2922    51.6%   4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   10/2024   LOS_HIGH_URGENCY  7.6     2188            8.0   
+HSN Sudbury                                  North       Teaching          4/2025    LOS_LOW_URGENCY   5.14    3055    63.9    4.0   
+NYGH                                         Toronto     Large Community   2025-08   LOS_ADMITTED      12.93   780     50.4    8.0   
+UHN - Toronto General                        Toronto     Teaching          2024-09   LOS_ADMITTED      15.76   949     27.2    8.0   
+Kingston Health Sciences Centre              East        Teaching          2025-12-01WT_PHYS_ASSESS    2.16    5262    75.4    2.0   
+Scarborough Health Network - General         Toronto     Large Community   202409    LOS_LOW_URGENCY   6.19    3302    50.3%   4.0   
+Sunnybrook HSC                               Toronto     Teaching          202412    LOS_ADMITTED      20.25   820     25.0    8.0   
+NYGH                                         Toronto     Large Community   2025-12   LOS_ADMITTED      18.85   1012    25.0    8.0   
+Sunnybrook HSC                               Toronto     Teaching          9/2024    LOS_LOW_URGENCY   5.45    2754    60.5    4.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2025-12-01LOS_LOW_URGENCY   4.89    3423    71.1    4.0   
+TORONTO GENERAL                              Toronto     Teaching          2025-02-01LOS_ADMITTED      16.52   1107    25.0    8.0   
+SUNNYBROOK                                   Toronto     Teaching          202512    LOS_HIGH_URGENCY  9.08    1888    74.3    8.0   
+St Michaels Hospital                         Toronto     Teaching          2025-07   LOS_ADMITTED      15.26   950     30.7    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2024-09-01WT_PHYS_ASSESS    2.08    4833    80.2    2.0   
+Brampton Civic Hospital                      Central     Large Community   202508    LOS_HIGH_URGENCY          1722    91.0    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   202501    LOS_HIGH_URGENCY  6.32    2609    93.9    8.0   
+Niagara Health SCS                           West        Large Community   202411    LOS_ADMITTED      14.06   1002    41.0    8.0   
+HHS General Site                             West        Teaching          11/2024   LOS_HIGH_URGENCY  6.91    2357    94.7    8.0   
+London Victoria Hospital                     West        Teaching          202412    LOS_HIGH_URGENCY  7.55    2237    84.1    8.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-08   LOS_LOW_URGENCY   5.86    2494    57.5    4.0   
+Lakeridge Health - Oshawa                    Central     Large Community   3/2025    LOS_LOW_URGENCY   5.47    3118    61.2    4.0   
+THP Mississauga                              Central     Large Community   11/2024   LOS_LOW_URGENCY   4.91    2718    68.0    4.0   
+Lakeridge Oshawa                             Central     Large Community   12/2024   WT_PHYS_ASSESS    2.37    4645    74.5    2.0   
+TBRHSC                                       North       Teaching          202408    WT_PHYS_ASSESS    2.49    3240    68.7    2.0   
+The Ottawa Hospital Civic                    East        Teaching          2024-07-01WT_PHYS_ASSESS    2.15    4694    75.4    2.0   
+William Osler Health System - Brampton Civic Central     Large Community   202409    LOS_LOW_URGENCY   5.92    2791    59.4    4.0   
+London Health Sciences Centre - Victoria     West        Teaching          2024-11   WT_PHYS_ASSESS    2.09    3948    79.5    2.0   
+NYGH                                         Toronto     Large Community   9/2024    LOS_LOW_URGENCY   6.25    2854    53.5    4.0   
+TOH Civic                                    East        Teaching          2025-07-01LOS_HIGH_URGENCY  7.54    2158            8.0   
+THP Mississauga                              Central     Large Community   2024-11   LOS_HIGH_URGENCY  5.9     1800    95.0    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   202511    LOS_LOW_URGENCY   5.85    2959    60.1    4.0   
+SHN General                                  Toronto     Large Community   9/2025    LOS_LOW_URGENCY   5.12    3001    64.4    4.0   
+Kingston Health Sciences Centre              East        Teaching          202407    LOS_ADMITTED      16.75   965     25.9    8.0   
+Peterborough Regional Health Centre          East        Large Community   202508    WT_PHYS_ASSESS    1.65    4316    94.0    2.0   
+St Michaels Hospital                         Toronto     Teaching          8/2024    LOS_LOW_URGENCY   5.89    3166    55.1    4.0   
+TORONTO GENERAL                              Toronto     Teaching          202412    LOS_HIGH_URGENCY  9.0     1992    80.1    8.0   
+Markham Stouffville                          Central     Large Community   2025-11-01WT_PHYS_ASSESS    1.89    3745    84.1    2.0   
+HHS General Site                             West        Teaching          2025-05-01LOS_LOW_URGENCY   5.57    2588    61.6    4.0   
+Oshawa General                               Central     Large Community   202510    LOS_LOW_URGENCY   5.96    2386    57.1    4.0   
+Toronto General Hospital                     Toronto     Teaching          2024-11   WT_PHYS_ASSESS    2.75    3502    66.7    2.0   
+Markham Stouffville Hospital                 Central     Large Community   2024-12-01LOS_ADMITTED      14.57   1029    35.3    8.0   
+Royal Victoria Barrie                        Central     Large Community   2024-08   LOS_ADMITTED      12.15   986     58.4    8.0   
+HHS General Site                             West        Teaching          2025-03   LOS_LOW_URGENCY   4.5     3240    75.8    4.0   
+Scarborough Health Network - General         Toronto     Large Community   8/2025    WT_PHYS_ASSESS    1.9     3722    83.7    2.0   
+TBRHSC                                       North       Teaching          202407    LOS_HIGH_URGENCY  6.16    1525    95.0    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          2025-12   LOS_LOW_URGENCY   5.81    3696            4.0   
+WRH Ouellette                                West        Large Community   7/2025    LOS_LOW_URGENCY   4.88            73.5    4.0   
+Toronto General Hospital                     Toronto     Teaching          8/2024    LOS_LOW_URGENCY   5.32    3312            4.0   
+Toronto General Hosp.                        Toronto     Teaching          5/2025    LOS_HIGH_URGENCY  7.14    1799    87.5%   8.0   
+Kingston Health Sciences Centre              East        Teaching          2025-02   wt_phys_assess    2.4     4771    71.5    2.0   
+SHN General                                  Toronto     Large Community   2025-06-01LOS_ADMITTED      -1.0    1047    95.0    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   2025-08   WT_PHYS_ASSESS    1.92    3537    88.8    2.0   
+William Osler Health System - Brampton Civic Central     Large Community   2024-10   LOS_ADMITTED      16.23   944     29.6    8.0   
+RVH Barrie                                   Central     Large Community   2025-02   LOS_LOW_URGENCY   5.51    2840    60.0    4.0   
+Kingston General Hospital                    East        Teaching          10/2024   LOS_HIGH_URGENCY  7.4     1572    90.1    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          202505    WT_PHYS_ASSESS    1.85    4958    86.3    2.0   
+Mississauga Hospital                         Central     Large Community   5/2025    LOS_HIGH_URGENCY  8.11    2037    86.1    8.0   
+Sudbury Regional Hospital                    North       Teaching          2024-11   LOS_LOW_URGENCY   4.68    3255    72.3    4.0   
+TBRHSC                                       North       Teaching          2025-06   WT_PHYS_ASSESS    -1.0    3519    95.0    2.0   
+Kingston Health Sciences Centre              East        Teaching          202510    LOS_HIGH_URGENCY  7.68    1793    82.2    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          11/2024   LOS_HIGH_URGENCY  8.32    2177    80.6    8.0   
+Mississauga Hospital                         Central     Large Community   202503    LOS_HIGH_URGENCY  6.31    2342    95.0    8.0   
+Thunder Bay Regional                         NORTH       Teaching          2025-05   LOS_LOW_URGENCY   5.67    2487    61.3    4.0   
+Grand River Hosp                             West        Large Community   2025-03-01LOS_ADMITTED      14.65   866     35.6    8.0   
+North York General                           TORONTO     Large Community   202407    WT_PHYS_ASSESS    2.24    4600    74.2    2.0   
+Lakeridge Oshawa                             Central     Large Community   2025-04-01LOS_ADMITTED      13.23   720     51.0    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2024-08   LOS_HIGH_URGENCY  8.05    2004    81.4    8.0   
+Niagara Health - St. Catharines              West        Large Community   11/2025   WT_PHYS_ASSESS    2.23    4037    76.1    2.0   
+Oshawa General                               Central     Large Community   2025-05   LOS_LOW_URGENCY   4.75    3411    75.2    4.0   
+WRH Ouellette                                West        Large Community   2025-03-01LOS_ADMITTED      13.56   1113    42.1    8.0   
+NYGH                                         Toronto     Large Community   12/2024   LOS_HIGH_URGENCY  8.46    2207    81.6    8.0   
+Peterborough Regional Health Centre          East        Large Community   202504    LOS_HIGH_URGENCY  6.94    1771    90.6    8.0   
+UHN - Toronto General                        Toronto     Teaching          1/2025    LOS_HIGH_URGENCY  9.62    2588            8.0   
+TBRHSC                                       North       Teaching          10/2025   LOS_LOW_URGENCY   6.24    2289    56.1    4.0   
+NYGH                                         Toronto     Large Community   5/2025    LOS_HIGH_URGENCY  7.15    1879    86.1    8.0   
+PRHC                                         East        Large Community   202410    LOS_LOW_URGENCY   4.02    2980    86.4    4.0   
+TORONTO GENERAL                              Toronto     Teaching          2025-12   wt_phys_assess    3.0     5143    59.0    2.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-10-01LOS_HIGH_URGENCY  6.47    1662    93.5%   8.0   
+Peterborough Regional Health Centre          East        Large Community   202505    LOS_LOW_URGENCY   5.45    2393    60.3    4.0   
+Scarborough General                          Toronto     Large Community   2024-12-01wt_phys_assess    2.44    5212    70.6    2.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   3/2025    LOS_HIGH_URGENCY  7.04    2234            8.0   
+Hamilton General                             West        Teaching          10/2024   WT_PHYS_ASSESS    2.58    4768    63.6    2.0   
+Oak Valley Health - Markham                  Central     Large Community   202507    LOS_LOW_URGENCY   4.59    3313    76.5    4.0   
+WRH Ouellette                                West        Large Community   2024-09-01LOS_LOW_URGENCY   5.12    3442    70.6    4.0   
+Scarborough General                          Toronto     Large Community   202506    LOS_LOW_URGENCY   5.67    2902    62.7    4.0   
+Kingston General Hospital                    East        Teaching          2025-11-01LOS_HIGH_URGENCY  6.67    2072    92.2    8.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-10-01WT_PHYS_ASSESS    1.88    3603    83.6    2.0   
+Scarborough General                          Toronto     Large Community   10/2024   LOS_ADMITTED      14.66   918     38.2    8.0   
+Royal Victoria Regional Health Centre        Central     Large Community   3/2025    LOS_HIGH_URGENCY  -1.0    1579    95.0    8.0   
+Hamilton Health Sciences - General           West        Teaching          202512    WT_PHYS_ASSESS    2.23    5319    80.0    2.0   
+Markham Stouffville Hospital                 Central     Large Community   202505    LOS_LOW_URGENCY   5.58    3094    60.5    4.0   
+Kingston General Hospital                    East        Teaching          12/2024   LOS_LOW_URGENCY   5.98    2556    56.1    4.0   
+St Michaels Hospital                         Toronto     Teaching          2025-07-01WT_PHYS_ASSESS    2.16    4895    78.6    2.0   
+Brampton Civic Hospital                      Central     Large Community   202504    LOS_HIGH_URGENCY  8.06    2063    87.0    8.0   
+Lakeridge Health - Oshawa                    Central     Large Community   2025-02-01LOS_ADMITTED      14.72   900     35.2    8.0   
+St Michaels Hospital                         Toronto     Teaching          2024-07   LOS_ADMITTED      14.98   904     32.7    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2025-09-01LOS_ADMITTED      17.34   769     25.0    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   202408    LOS_HIGH_URGENCY  7.21    1985    91.3    8.0   
+Health Sciences North                        North       Teaching          2025-02-01LOS_LOW_URGENCY   6.5     3894    47.7    4.0   
+SUNNYBROOK                                   Toronto     Teaching          202412    LOS_LOW_URGENCY   6.56    2727    47.2    4.0   
+Grand River Hosp                             West        Large Community   10/2024   LOS_LOW_URGENCY   5.42    3471    61.9    4.0   
+PRHC                                         East        Large Community   2025-07-01LOS_LOW_URGENCY   4.78    3059    76.4    4.0   
+Toronto General Hospital                     Toronto     Teaching          11/2025   WT_PHYS_ASSESS    2.48    3536    71.5    2.0   
+Ottawa Hospital - Civic Campus               East        Teaching          5/2025    los_high_urgency  7.18    2311    85.5    8.0   
+Markham Stouffville Hospital                 Central     Large Community   11/2025   LOS_LOW_URGENCY   4.55    3490    74.0    4.0   
+THP Mississauga                              Central     Large Community   2025-11   WT_PHYS_ASSESS    2.23    4038    80.3    2.0   
+Toronto General Hosp.                        Toronto     Teaching          2024-08   LOS_HIGH_URGENCY  8.58    1904    76.7    8.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-01   LOS_HIGH_URGENCY  6.75    2657    95.0    8.0   
+WRH Ouellette                                West        Large Community   3/2025    LOS_LOW_URGENCY   4.85    3373    72.4    4.0   
+London Victoria Hospital                     West        Teaching          2025-09-01WT_PHYS_ASSESS    2.46    3440    67.1    2.0   
+Toronto General Hosp.                        Toronto     Teaching          2025-01-01WT_PHYS_ASSESS    2.3     4469    75.6%   2.0   
+Brampton Civic Hospital                      Central     Large Community   202506    LOS_HIGH_URGENCY  6.69    1479            8.0   
+KHSC                                         East        Teaching          202409    LOS_HIGH_URGENCY  7.97    1907    86.5    8.0   
+Brampton Civic Hospital                      Central     Large Community   2024-10-01LOS_LOW_URGENCY   5.19    3099    69.5    4.0   
+North York General Hospital                  Toronto     Large Community   10/2024   WT_PHYS_ASSESS    2.42    3764    71.0    2.0   
+Peterborough Regional                        East        Large Community   202510    WT_PHYS_ASSESS    2.31    4729    78.2    2.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          1/2025    LOS_HIGH_URGENCY  9.66    1979    71.1    8.0   
+Niagara Health - St. Catharines              West        Large Community   12/2025   los_high_urgency  6.32    1866    95.0    8.0   
+Kingston General Hospital                    East        Teaching          202505    WT_PHYS_ASSESS    1.82    5243    87.0    2.0   
+UHN - Toronto General                        Toronto     Teaching          2025-09-01LOS_LOW_URGENCY   5.31    2573    64.8    4.0   
+Scarborough Health Network - General         Toronto     Large Community   202502    LOS_LOW_URGENCY   6.62    2886    51.1    4.0   
+WRH Ouellette                                West        Large Community   2025-09-01WT_PHYS_ASSESS    1.99    5072    82.2    2.0   
+SHN General                                  TORONTO     Large Community   2024-08   WT_PHYS_ASSESS    2.0     4867    86.7    2.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2025-02-01LOS_LOW_URGENCY   6.12    2987    54.6    4.0   
+Lakeridge Oshawa                             Central     Large Community   202506    LOS_ADMITTED      14.06   1053    43.0    8.0   
+Niagara Health SCS                           West        Large Community   9/2025    WT_PHYS_ASSESS    2.15    3520    81.7    2.0   
+The Ottawa Hospital Civic                    East        Teaching          202507    WT_PHYS_ASSESS    1.89    4827    86.9    2.0   
+LHSC Victoria                                West        Teaching          2025-02-01LOS_ADMITTED      18.21   1229    25.0    8.0   
+Grand River Hospital                         West        Large Community   2025-05   LOS_ADMITTED      15.75   1057    28.4    8.0   
+Peterborough Regional Health Centre          East        Large Community   6/2025    LOS_HIGH_URGENCY  6.44    1724    95.0    8.0   
+Health Sciences North                        North       Teaching          202407    WT_PHYS_ASSESS    2.33    4721    72.3    2.0   
+Niagara Health - St. Catharines              West        Large Community   5/2025    WT_PHYS_ASSESS    1.95    4907    83.5    2.0   
+Osler Brampton Civic                         Central     Large Community   2024-07   LOS_HIGH_URGENCY  7.18    1927    89.2    8.0   
+GRH Kitchener                                West        Large Community   202503    LOS_LOW_URGENCY   4.53    3157    74.0    4.0   
+UHN - Toronto General                        Toronto     Teaching          11/2025   LOS_LOW_URGENCY   5.81    2834    61.5    4.0   
+Oak Valley Health - Markham                  Central     Large Community   2025-06-01LOS_ADMITTED      12.05   707     57.8    8.0   
+GRH Kitchener                                West        Large Community   202504    LOS_LOW_URGENCY   5.24    2282    63.6    4.0   
+THP Mississauga                              Central     Large Community   1/2025    LOS_ADMITTED      16.26   1249    25.5%   8.0   
+Royal Victoria Barrie                        Central     Large Community   2025-02   wt_phys_assess    2.29    4729    75.7    2.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-10-01LOS_HIGH_URGENCY  7.02    2108    88.6    8.0   
+Peterborough Regional Health Centre          East        Large Community   202510    LOS_LOW_URGENCY   5.61    3283    65.2    4.0   
+Kingston Health Sciences Centre              East        Teaching          2024-08   LOS_ADMITTED      16.59   891     25.0    8.0   
+Royal Victoria Barrie                        Central     Large Community   2025-05-01LOS_LOW_URGENCY   5.44    2543    63.2    4.0   
+The Ottawa Hospital Civic                    East        Teaching          2024-09-01LOS_ADMITTED      16.61   1062    25.2    8.0   
+Oak Valley Health - Markham                  Central     Large Community   8/2024    LOS_HIGH_URGENCY  7.58    2158    87.6    8.0   
+St. Michael's Hospital                       Toronto     Teaching          202411    LOS_LOW_URGENCY   6.45    3280    50.0    4.0   
+Sunnybrook HSC                               Toronto     Teaching          2/2025    LOS_ADMITTED      21.89   1098    25.0    8.0   
+NYGH                                         Toronto     Large Community   2025-10-01LOS_ADMITTED      13.66   888     48.1    8.0   
+Hamilton Health Sciences - General           West        Teaching          3/2025    LOS_ADMITTED      14.55   1095    38.8    8.0   
+UHN - Toronto General                        Toronto     Teaching          2024-12-01LOS_LOW_URGENCY   6.82    3303    48.2    4.0   
+SUNNYBROOK                                   Toronto     Teaching          2025-07   LOS_LOW_URGENCY   5.27    2533    65.8    4.0   
+Scarborough Health Network - General         Toronto     Large Community   2024-09-01LOS_ADMITTED      17.47   1069    25.0    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2024-08-01LOS_HIGH_URGENCY  6.28    1758    91.7    8.0   
+St Catharines General                        West        Large Community   2025-03-01LOS_HIGH_URGENCY  6.96            90.0    8.0   
+Royal Victoria Barrie                        Central     Large Community   2025-06   LOS_LOW_URGENCY   5.55    2389    60.9    4.0   
+LHSC Victoria                                West        Teaching          10/2024   LOS_LOW_URGENCY   6.01    2790    53.7    4.0   
+Ottawa Hospital - Civic Campus               East        Teaching          2025-10   WT_PHYS_ASSESS    2.44    3853    71.6    2.0   
+Royal Victoria Barrie                        Central     Large Community   11/2025   WT_PHYS_ASSESS    1.83    3391    91.5    2.0   
+TORONTO GENERAL                              Toronto     Teaching          2024-07   LOS_LOW_URGENCY   4.66    2366            4.0   
+Peterborough Regional                        East        Large Community   2025-02-01LOS_ADMITTED      15.26   828     29.9    8.0   
+PRHC                                         East        Large Community   202512    LOS_HIGH_URGENCY  8.06    2416    86.5    8.0   
+Mississauga Hospital                         Central     Large Community   2025-06   WT_PHYS_ASSESS    2.3     3479            2.0   
+St Catharines General                        West        Large Community   2025-08-01WT_PHYS_ASSESS    1.72    3614    92.4    2.0   
+PRHC                                         East        Large Community   2025-06-01LOS_ADMITTED      13.07   867     46.2    8.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-04   LOS_ADMITTED      14.07   1065    38.2    8.0   
+Royal Victoria Barrie                        Central     Large Community   2024-10-01WT_PHYS_ASSESS    2.48    4667    71.0    2.0   
+Toronto General Hosp.                        Toronto     Teaching          7/2025    WT_PHYS_ASSESS    1.99    4774    82.5    2.0   
+HHS General Site                             West        Teaching          2025-09-01WT_PHYS_ASSESS    -1.0    4765    95.0    2.0   
+Royal Victoria Barrie                        Central     Large Community   11/2024   LOS_HIGH_URGENCY  6.73    2142    89.2    8.0   
+Sunnybrook HSC                               Toronto     Teaching          202504    LOS_HIGH_URGENCY  7.71    1829    83.0    8.0   
+North York General                           Toronto     Large Community   2024-08-01WT_PHYS_ASSESS    2.14    3231    79.1    2.0   
+GRH Kitchener                                West        Large Community   2025-06-01LOS_ADMITTED      12.43   920     50.7    8.0   
+Brampton Civic Hospital                      Central     Large Community   2025-02-01WT_PHYS_ASSESS    2.47    5448    67.3    2.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-01-01WT_PHYS_ASSESS    2.06    5297    82.6    2.0   
+Hamilton Health Sciences - General           West        Teaching          7/2024    LOS_ADMITTED      12.4    942     56.9    8.0   
+Toronto General Hospital                     TORONTO     Teaching          4/2025    LOS_ADMITTED      17.54   888     25.0    8.0   
+Peterborough Regional Health Centre          East        Large Community   2024-08-01LOS_HIGH_URGENCY  7.18    1663    90.3    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-07-01LOS_HIGH_URGENCY  6.96    2082    88.1%   8.0   
+NYGH                                         Toronto     Large Community   202407    LOS_HIGH_URGENCY  7.32    1624    90.3    8.0   
+Health Sciences North                        North       Teaching          2025-02   LOS_ADMITTED      18.41   830     25.0    8.0   
+Thunder Bay Regional                         North       Teaching          2024-09-01LOS_ADMITTED      14.27   864     37.3    8.0   
+St. Michael's Hospital                       Toronto     Teaching          2025-10-01LOS_LOW_URGENCY   6.23    2883    52.7    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-01   LOS_HIGH_URGENCY  8.18    2235    81.7    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202510    WT_PHYS_ASSESS    2.72    4526    64.3    2.0   
+Kingston General Hospital                    East        Teaching          2025-06   LOS_HIGH_URGENCY  -1.0    1839    95.0    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-11   WT_PHYS_ASSESS    2.66    4296    67.9    2.0   
+Peterborough Regional Health Centre          East        Large Community   8/2024    WT_PHYS_ASSESS    1.87    3644    89.1    2.0   
+Toronto General Hosp.                        Toronto     Teaching          2025-09   WT_PHYS_ASSESS    2.09    3813    79.4    2.0   
+William Osler Health System - Brampton Civic CENTRAL     Large Community   9/2025    LOS_LOW_URGENCY   5.58    3440            4.0   
+HSN Sudbury                                  NORTH       Teaching          202407    LOS_HIGH_URGENCY  6.67    1561    93.7    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          10/2024   LOS_ADMITTED      17.45   1021    25.0    8.0   
+TOH Civic                                    East        Teaching          2024-07   LOS_ADMITTED      17.07   846     25.0    8.0   
+Oak Valley Health - Markham                  Central     Large Community   11/2024   WT_PHYS_ASSESS    1.87    3764    83.1    2.0   
+Markham Stouffville Hospital                 Central     Large Community   202503    LOS_HIGH_URGENCY  7.65    1877    84.9    8.0   
+Lakeridge Health - Oshawa                    Central     Large Community   1/2025    LOS_ADMITTED      15.79   931             8.0   
+TORONTO GENERAL                              Toronto     Teaching          2025-12   LOS_LOW_URGENCY   5.75    3737    58.1    4.0   
+Windsor Ouellette Campus                     West        Large Community   202511    WT_PHYS_ASSESS    2.27    5248    75.0    2.0   
+Toronto General Hospital                     Toronto     Teaching          202411    LOS_ADMITTED      14.81   795     40.2    8.0   
+LHSC Victoria                                West        Teaching          2024-10   LOS_HIGH_URGENCY  7.79    2211    81.8    8.0   
+Windsor Regional Hospital - Ouellette        WEST        Large Community   2024-08-01WT_PHYS_ASSESS    2.24    4016    80.8    2.0   
+London Victoria Hospital                     WEST        Teaching          10/2025   los_low_urgency   5.7     2768    57.6    4.0   
+Hamilton Health Sciences - General           West        Teaching          202504    LOS_HIGH_URGENCY  6.51    2233    95.0    8.0   
+North York General Hospital                  Toronto     Large Community   12/2024   LOS_LOW_URGENCY   6.55    2799    49.8    4.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-01   LOS_LOW_URGENCY   6.45    3843    52.3    4.0   
+St Michaels Hospital                         Toronto     Teaching          202411    LOS_ADMITTED      17.02   927     25.0    8.0   
+SHN General                                  Toronto     Large Community   202407    LOS_LOW_URGENCY   -1.0    3123    95.0    4.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-04-01LOS_ADMITTED      16.88   721     25.0    8.0   
+Peterborough Regional                        EAST        Large Community   2025-06-01LOS_LOW_URGENCY   4.32    2890    76.0    4.0   
+GRH Kitchener                                West        Large Community   2025-08-01LOS_ADMITTED      12.65   730     54.4    8.0   
+RVH Barrie                                   Central     Large Community   6/2025    LOS_HIGH_URGENCY  7.16    1590    85.3    8.0   
+North York General                           Toronto     Large Community   2024-10   LOS_LOW_URGENCY   6.24    3257    54.8    4.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2025-02   LOS_HIGH_URGENCY  7.79    1891    88.5    8.0   
+Mississauga Hospital                         Central     Large Community   2025-10   LOS_HIGH_URGENCY  5.92    2070    95.0    8.0   
+GRH Kitchener                                West        Large Community   2025-06   LOS_LOW_URGENCY   5.07    2326    68.7    4.0   
+Grand River Hospital                         West        Large Community   7/2025    WT_PHYS_ASSESS    2.09    4042    79.5    2.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2025-04-01WT_PHYS_ASSESS    2.57    5072    71.3    2.0   
+Markham Stouffville                          CENTRAL     Large Community   4/2025    WT_PHYS_ASSESS    1.91    3914    83.9    2.0   
+Oak Valley Health - Markham                  Central     Large Community   2025-02   LOS_LOW_URGENCY   5.66    2869    61.8    4.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          2025-01-01LOS_LOW_URGENCY   5.68    3465    59.6%   4.0   
+Lakeridge Health - Oshawa                    Central     Large Community   1/2025    LOS_HIGH_URGENCY  6.57    2319    92.9    8.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-11-01LOS_HIGH_URGENCY  7.92    1674            8.0   
+NYGH                                         Toronto     Large Community   202504    LOS_ADMITTED      17.28   894     25.0    8.0   
+Osler Brampton Civic                         Central     Large Community   2025-03-01LOS_HIGH_URGENCY  8.1     2097    83.3    8.0   
+Peterborough Regional                        East        Large Community   2025-11-01LOS_ADMITTED      12.15   933     51.5    8.0   
+Scarborough General                          Toronto     Large Community   2025-10-01LOS_ADMITTED      16.77   954     25.0    8.0   
+KHSC                                         East        Teaching          2025-03   LOS_HIGH_URGENCY  6.03    2184    94.5    8.0   
+Markham Stouffville                          Central     Large Community   2024-07   LOS_ADMITTED      13.03   1034    45.5    8.0   
+London Victoria Hospital                     West        Teaching          202407    LOS_HIGH_URGENCY  7.91    1565    84.3    8.0   
+Osler Brampton Civic                         Central     Large Community   2025-06   LOS_LOW_URGENCY   5.55    2130    61.7    4.0   
+Lakeridge Oshawa                             Central     Large Community   202505    WT_PHYS_ASSESS    2.06    4580            2.0   
+London Health Sciences Centre - Victoria     West        Teaching          2025-04-01LOS_ADMITTED      15.17   895     34.1    8.0   
+HSN Sudbury                                  North       Teaching          12/2024   LOS_HIGH_URGENCY  7.27    2237    90.8    8.0   
+Lakeridge Oshawa                             Central     Large Community   2025-02-01LOS_LOW_URGENCY   6.29    2564    48.5    4.0   
+Brampton Civic Hospital                      Central     Large Community   4/2025    LOS_LOW_URGENCY   5.28    2618    69.9    4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   202409    LOS_HIGH_URGENCY  5.83    1963    95.0    8.0   
+Kingston Health Sciences Centre              East        Teaching          11/2024   WT_PHYS_ASSESS    2.23    4515    76.1    2.0   
+Lakeridge Oshawa                             Central     Large Community   2025-05-01LOS_HIGH_URGENCY  6.07    2139    94.9    8.0   
+Windsor Ouellette Campus                     West        Large Community   202508    WT_PHYS_ASSESS    1.76    3667    93.2    2.0   
+London Health Sciences Centre - Victoria     West        Teaching          202504    WT_PHYS_ASSESS    2.53    3991    71.8    2.0   
+Grand River Hospital                         West        Large Community   8/2025    LOS_LOW_URGENCY   5.16    2637    68.0    4.0   
+GRH Kitchener                                West        Large Community   2024-10-01LOS_ADMITTED      15.38   965     32.1    8.0   
+Sunnybrook HSC                               Toronto     Teaching          8/2024    LOS_ADMITTED      17.68   1061    25.0    8.0   
+Grand River Hospital                         West        Large Community   1/2025    LOS_ADMITTED      17.01   917     25.0    8.0   
+Oshawa General                               Central     Large Community   4/2025    LOS_LOW_URGENCY   4.38    3028            4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   8/2025    LOS_ADMITTED      12.69   806     55.1    8.0   
+North York General                           Toronto     Large Community   4/2025    LOS_HIGH_URGENCY  7.73    1520    86.7    8.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-07-01LOS_ADMITTED      18.46   702     25.0    8.0   
+Lakeridge Health - Oshawa                    Central     Large Community   2024-08-01LOS_LOW_URGENCY   4.21    2925    83.0    4.0   
+North York General                           Toronto     Large Community   2025-12   LOS_LOW_URGENCY   6.64    2921    47.5    4.0   
+HHS General Site                             West        Teaching          2024-12   LOS_HIGH_URGENCY  6.85    2453    88.2    8.0   
+Markham Stouffville                          Central     Large Community   2025-05   LOS_HIGH_URGENCY  6.5     1686    93.8    8.0   
+Kingston General Hospital                    East        Teaching          2025-10   LOS_ADMITTED      15.57   1054    35.0    8.0   
+Health Sciences North                        North       Teaching          2025-11   LOS_LOW_URGENCY   5.29    3428    63.9    4.0   
+Trillium Health Partners - Mississauga       Central     Large Community   2024-12   WT_PHYS_ASSESS    2.32    5234    71.1    2.0   
+GRH Kitchener                                West        Large Community   3/2025    WT_PHYS_ASSESS    2.06    5041    83.4    2.0   
+SHN General                                  Toronto     Large Community   2024-11-01LOS_LOW_URGENCY   5.31    2364    69.4    4.0   
+Royal Victoria Regional Health Centre        Central     Large Community   10/2025   LOS_ADMITTED      15.44   1102    34.9    8.0   
+William Osler Health System - Brampton Civic Central     Large Community   2/2025    LOS_ADMITTED      19.92   1052    25.0    8.0   
+St Catharines General                        West        Large Community   2024-10-01LOS_ADMITTED      16.0    1039    29.6    8.0   
+SUNNYBROOK                                   Toronto     Teaching          12/2025   WT_PHYS_ASSESS    2.74    4818    62.8    2.0   
+LHSC Victoria                                West        Teaching          202410    LOS_ADMITTED      13.14   740     45.2%   8.0   
+Kingston General Hospital                    East        Teaching          202412    LOS_HIGH_URGENCY  6.76    2554    88.6    8.0   
+North York General                           Toronto     Large Community   2025-03   LOS_LOW_URGENCY   5.76    3157    63.3    4.0   
+Niagara Health - St. Catharines              West        Large Community   2025-09   LOS_HIGH_URGENCY  7.38    1758    86.4    8.0   
+Lakeridge Health - Oshawa                    Central     Large Community   202512    LOS_LOW_URGENCY   6.67    3227    47.5    4.0   
+SHN General                                  Toronto     Large Community   2024-07   wt_phys_assess    1.78    4894    89.6    2.0   
+Hamilton Health Sciences - General           West        Teaching          1/2025    LOS_HIGH_URGENCY  8.29    1946    84.9    8.0   
+Sunnybrook HSC                               Toronto     Teaching          12/2024   WT_PHYS_ASSESS    2.79    4460    64.9    2.0   
+Markham Stouffville                          Central     Large Community   202503    WT_PHYS_ASSESS    1.92    4159    86.9    2.0   
+Mississauga Hospital                         Central     Large Community   202501    WT_PHYS_ASSESS    2.54    4800    64.7    2.0   
+Sunnybrook HSC                               Toronto     Teaching          2024-07   WT_PHYS_ASSESS    2.24    4416    77.7    2.0   
+St Michaels Hospital                         Toronto     Teaching          2024-07   WT_PHYS_ASSESS    2.04    4795    86.4    2.0   
+Niagara Health - St. Catharines              West        Large Community   2024-09-01LOS_HIGH_URGENCY  6.75    2055    95.0    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-01-01LOS_LOW_URGENCY   6.08    3660    57.5    4.0   
+Oshawa General                               Central     Large Community   12/2024   LOS_HIGH_URGENCY  7.34    2545    88.0    8.0   
+Brampton Civic Hospital                      Central     Large Community   202510    WT_PHYS_ASSESS    1.94    4222    89.0    2.0   
+London Victoria Hospital                     West        Teaching          2025-08   LOS_HIGH_URGENCY  7.98    2059    83.6    8.0   
+Thunder Bay Regional                         North       Teaching          2025-03   LOS_ADMITTED      18.22   1113    25.0    8.0   
+Hamilton Health Sciences - General           West        Teaching          2024-07   LOS_LOW_URGENCY   5.33    2451    65.3    4.0   
+Health Sciences North                        North       Teaching          202506    LOS_HIGH_URGENCY  7.56    1908    82.9    8.0   
+PRHC                                         East        Large Community   8/2025    LOS_HIGH_URGENCY  5.59    1968    95.0    8.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2025-04   WT_PHYS_ASSESS            4365            2.0   
+Niagara Health SCS                           West        Large Community   202410    LOS_HIGH_URGENCY  6.67    1916    93.9    8.0   
+TOH Civic                                    East        Teaching          202412    WT_PHYS_ASSESS    2.21    5552    74.5    2.0   
+Thunder Bay Regional                         North       Teaching          2/2025    LOS_ADMITTED      16.98   1220    25.0    8.0   
+THP Mississauga                              CENTRAL     Large Community   2025-11   LOS_ADMITTED      15.35   926     31.8    8.0   
+Trillium Health Partners - Mississauga       Central     Large Community   202412    LOS_HIGH_URGENCY  7.87    1843    85.5    8.0   
+Windsor Ouellette Campus                     West        Large Community   11/2025   LOS_HIGH_URGENCY  6.01    2204    95.0    8.0   
+TOH Civic                                    East        Teaching          8/2025    LOS_LOW_URGENCY   4.25    2656    83.0    4.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-09-01LOS_LOW_URGENCY   5.29    2961    64.8    4.0   
+North York General                           Toronto     Large Community   8/2025    WT_PHYS_ASSESS    2.35    3691    73.7    2.0   
+Kingston General Hospital                    East        Teaching          8/2024    WT_PHYS_ASSESS    -1.0    4129    95.0    2.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2024-12   LOS_LOW_URGENCY   5.43    3511    60.4%   4.0   
+Lakeridge Health - Oshawa                    Central     Large Community   202509    LOS_LOW_URGENCY   6.02    2283    56.6    4.0   
+Windsor Ouellette Campus                     West        Large Community   10/2025   LOS_HIGH_URGENCY  7.43    2348    87.6    8.0   
+North York General Hospital                  Toronto     Large Community   2025-08   LOS_HIGH_URGENCY  6.91    2061    87.9    8.0   
+TBRHSC                                       North       Teaching          2024-12   LOS_ADMITTED      20.56           25.0    8.0   
+Health Sciences North                        North       Teaching          2025-10-01WT_PHYS_ASSESS    2.35    4012    73.6    2.0   
+WRH Ouellette                                West        Large Community   2024-09-01LOS_HIGH_URGENCY  5.9     1668    95.0    8.0   
+HHS General Site                             WEST        Teaching          2024-07   WT_PHYS_ASSESS    1.76    4430    91.8    2.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-01-01LOS_HIGH_URGENCY  8.71    1896    81.1    8.0   
+Kingston Health Sciences Centre              East        Teaching          2025-03-01WT_PHYS_ASSESS    1.84    4482    89.5    2.0   
+Osler Brampton Civic                         Central     Large Community   2025-01   WT_PHYS_ASSESS    2.3     4376    73.6    2.0   
+Markham Stouffville                          Central     Large Community   2024-12   LOS_HIGH_URGENCY  7.05    1754    91.8    8.0   
+Lakeridge Oshawa                             Central     Large Community   12/2025   LOS_HIGH_URGENCY  8.0     2377    82.6    8.0   
+Brampton Civic Hospital                      Central     Large Community   2025-10   LOS_ADMITTED      16.8    969     25.0    8.0   
+Windsor Ouellette Campus                     West        Large Community   2024-12   LOS_ADMITTED      15.79   1034    33.9    8.0   
+Health Sciences North                        North       Teaching          1/2025    WT_PHYS_ASSESS    2.84    4790    64.2    2.0   
+St Michaels Hospital                         Toronto     Teaching          2025-03   LOS_LOW_URGENCY   5.61    3290    63.5    4.0   
+Royal Victoria Regional Health Centre        Central     Large Community   2025-05-01LOS_HIGH_URGENCY  7.68    2142    84.3    8.0   
+THP Mississauga                              Central     Large Community   2024-12   LOS_LOW_URGENCY   6.45    3532    51.8    4.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          8/2025    LOS_HIGH_URGENCY  6.64    2071    92.5    8.0   
+UHN - Toronto General                        Toronto     Teaching          2024-09-01LOS_LOW_URGENCY   5.16    2244    67.6    4.0   
+UHN - Toronto General                        Toronto     Teaching          2025-02-01LOS_HIGH_URGENCY  9.73    2120    69.6%   8.0   
+St Catharines General                        West        Large Community   2025-01   LOS_LOW_URGENCY   5.08    3238    66.1    4.0   
+Osler Brampton Civic                         Central     Large Community   11/2025   LOS_HIGH_URGENCY  7.28    1884            8.0   
+WRH Ouellette                                West        Large Community   2025-10-01LOS_ADMITTED      16.1    1038    26.2    8.0   
+GRH Kitchener                                West        Large Community   11/2024   LOS_LOW_URGENCY   4.3     3332    80.9    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2024-07   LOS_LOW_URGENCY   5.17    3104    65.8    4.0   
+Thunder Bay Regional                         North       Teaching          202409    LOS_HIGH_URGENCY  7.25    1554    90.1    8.0   
+Toronto General Hosp.                        Toronto     Teaching          2025-11   LOS_ADMITTED      16.24   796     25.0    8.0   
+St Catharines General                        WEST        Large Community   7/2025    WT_PHYS_ASSESS    1.97    4663    82.1    2.0   
+London Victoria Hospital                     West        Teaching          2025-07-01WT_PHYS_ASSESS    1.99    3897    84.7    2.0   
+The Ottawa Hospital Civic                    East        Teaching          2025-10-01LOS_HIGH_URGENCY  7.57    2106    86.5    8.0   
+Windsor Regional Hospital - Ouellette        West        Large Community   2024-10   LOS_HIGH_URGENCY  7.09    2001    88.9    8.0   
+SUNNYBROOK                                   Toronto     Teaching          202504    LOS_LOW_URGENCY   6.72    2630    47.7    4.0   
+Grand River Hospital                         West        Large Community   4/2025    LOS_HIGH_URGENCY  7.13    2146    86.3    8.0   
+KHSC                                         East        Teaching          3/2025    LOS_LOW_URGENCY   5.56    2559    64.3    4.0   
+SHN General                                  Toronto     Large Community   2024-12-01LOS_HIGH_URGENCY  7.29    1746    91.8    8.0   
+SUNNYBROOK                                   Toronto     Teaching          202411    LOS_LOW_URGENCY   5.4     3037    62.7    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          2024-12   LOS_LOW_URGENCY   7.42    3141    39.5    4.0   
+Grand River Hosp                             West        Large Community   2024-09   LOS_ADMITTED      13.95   955     39.2    8.0   
+London Victoria Hospital                     West        Teaching          202412    WT_PHYS_ASSESS    2.73    5000    65.7    2.0   
+Brampton Civic Hospital                      Central     Large Community   2025-12-01LOS_LOW_URGENCY   5.39    3669            4.0   
+St Michaels Hospital                         Toronto     Teaching          2025-03-01WT_PHYS_ASSESS    2.33    4142    74.9    2.0   
+Royal Victoria Barrie                        Central     Large Community   7/2025    LOS_LOW_URGENCY   5.0     2854    72.7    4.0   
+Ottawa Hospital - Civic Campus               East        Teaching          202408    LOS_ADMITTED      13.61   704     42.8    8.0   
+Thunder Bay Regional Health Sciences Centre  North       Teaching          10/2024   LOS_LOW_URGENCY   5.1     2288    67.4    4.0   
+London Victoria Hospital                     West        Teaching          2024-08   WT_PHYS_ASSESS    2.04    3822    83.6    2.0   
+Peterborough Regional Health Centre          East        Large Community   1/2025    LOS_HIGH_URGENCY  7.87    1782    81.1    8.0   
+TORONTO GENERAL                              Toronto     Teaching          2024-07   LOS_HIGH_URGENCY  6.63    2221    93.7    8.0   
+Scarborough Health Network - General         Toronto     Large Community   5/2025    LOS_LOW_URGENCY   4.51    3287    78.5    4.0   
+Windsor Ouellette Campus                     West        Large Community   2025-01-01WT_PHYS_ASSESS            4429    85.5    2.0   
+The Ottawa Hospital Civic                    East        Teaching          202412    LOS_LOW_URGENCY   4.96    3443    71.9    4.0   
+Unity Health - St. Michael's                 Toronto     Teaching          202505    LOS_ADMITTED      17.0    812     25.0    8.0   
+Niagara Health - St. Catharines              West        Large Community   2025-12   LOS_LOW_URGENCY   -1.0    3210    95.0    4.0   
+St Catharines General                        WEST        Large Community   2025-10-01LOS_LOW_URGENCY   5.0     2610    69.0    4.0   
+Royal Victoria Barrie                        Central     Large Community   11/2024   LOS_LOW_URGENCY   4.29    3050            4.0   
+Oshawa General                               Central     Large Community   2025-12-01LOS_ADMITTED      17.73   1223    25.0    8.0   
+Markham Stouffville Hospital                 Central     Large Community   2025-12   LOS_ADMITTED      16.57   948     25.0    8.0   
+Sunnybrook Health Sciences Centre            Toronto     Teaching          7/2025    WT_PHYS_ASSESS    2.29    4333    74.3    2.0   
+Sunnybrook HSC                               Toronto     Teaching          2025-10-01LOS_HIGH_URGENCY  7.0     2319    93.1    8.0   
+Thunder Bay Regional                         North       Teaching          2025-07   LOS_HIGH_URGENCY  6.83    1666    92.3    8.0   
+TORONTO GENERAL                              Toronto     Teaching          10/2024   WT_PHYS_ASSESS    2.79    4787    61.2    2.0   
+Scarborough Health Network - General         Toronto     Large Community   2025-06   WT_PHYS_ASSESS    1.82    3896    91.1    2.0   
+Lakeridge Oshawa                             Central     Large Community   2025-02-01LOS_HIGH_URGENCY  7.46    2044    87.6    8.0   

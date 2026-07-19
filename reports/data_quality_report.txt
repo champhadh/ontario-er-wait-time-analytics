@@ -1,0 +1,16 @@
+Ontario ER Wait-Time Analytics — Data Quality Report
+Generated: 2026-07-19 17:16:27
+Pipeline runtime: 0.12s
+
+CHECK                            STATUS DETAIL
+--------------------------------------------------------------------------------
+row_count_fact                   PASS   fact_ed_wait rows=1440
+row_count_mart                   PASS   mart_hospital_month rows=360
+null_avg_hours_threshold         PASS   null avg_hours pct=3.82
+avg_hours_in_range               PASS   out_of_range rows (not between 0 and 72)=0
+no_duplicate_keys                PASS   duplicate natural keys=0
+pct_within_target_range          PASS   pct_within_target outside 0-100=0
+period_date_coverage             PASS   null period_date rows=0
+staging_to_fact_dedupe           PASS   stg=1443 fact=1440 removed=3
+--------------------------------------------------------------------------------
+OVERALL: PASS

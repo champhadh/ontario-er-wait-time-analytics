@@ -1,0 +1,46 @@
+-- ============================================================
+-- Ontario ER Wait-Time Analytics — DAX measures
+-- Import data/processed/mart_hospital_month.csv (or connect to
+-- data/db/ontario_er.db table mart_hospital_month).
+-- ============================================================
+
+-- 1) Volume-weighted average wait to physician assessment
+Avg Wait to Physician (hrs) =
+DIVIDE(
+    SUMX(
+        mart_hospital_month,
+        mart_hospital_month[avg_wait_physician_hrs]
+            * mart_hospital_month[volume_physician_assess]
+    ),
+    SUM(mart_hospital_month[volume_physician_assess])
+)
+
+-- 2) % of hospital-months where low-urgency LOS exceeded the 4h target
+% Hospital-Months Over Low-Urgency Target =
+VAR OverTarget =
+    CALCULATE(
+        COUNTROWS(mart_hospital_month),
+        FILTER(
+            mart_hospital_month,
+            NOT ISBLANK(mart_hospital_month[avg_los_low_urgency_hrs])
+                && mart_hospital_month[avg_los_low_urgency_hrs] > 4
+        )
+    )
+VAR Total =
+    CALCULATE(
+        COUNTROWS(mart_hospital_month),
+        NOT ISBLANK(mart_hospital_month[avg_los_low_urgency_hrs])
+    )
+RETURN
+DIVIDE(OverTarget, Total)
+
+-- 3) Average % of patients completing visit within Ontario target (low urgency)
+Avg % Within Target (Low Urgency) =
+AVERAGE(mart_hospital_month[pct_within_target_low])
+
+-- 4) Admitted LOS vs 8-hour target (hours over / under)
+Admitted LOS vs Target (hrs) =
+AVERAGEX(
+    mart_hospital_month,
+    mart_hospital_month[avg_los_admitted_hrs] - 8
+)
