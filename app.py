@@ -13,6 +13,7 @@ from pathlib import Path
 
 import pandas as pd
 import plotly.express as px
+import plotly.graph_objects as go
 import streamlit as st
 
 ROOT = Path(__file__).resolve().parent
@@ -20,38 +21,33 @@ MART_CSV = ROOT / "data" / "processed" / "mart_hospital_month.csv"
 DQ_REPORT = ROOT / "reports" / "data_quality_report.txt"
 PIPELINE = ROOT / "etl" / "run_pipeline.py"
 
-# Visual direction: clinical slate / forest (not purple/cream defaults)
-COLORS = {
-    "bg": "#f4f7f6",
-    "ink": "#14242b",
-    "muted": "#5a6f76",
-    "accent": "#0b6e4f",
-    "accent2": "#1f4e5f",
-    "warn": "#c45c26",
-    "card": "#e8eef0",
-}
+INK = "#111827"
+MUTED = "#6b7280"
+LINE = "#111827"
+BAR = "#1f4e5f"
 
 st.set_page_config(
-    page_title="Ontario ER Wait-Time Analytics",
+    page_title="Ontario ER Wait Times",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="collapsed",
 )
 
 st.markdown(
-    f"""
+    """
     <style>
-      .stApp {{ background: linear-gradient(165deg, #f4f7f6 0%, #e3ece8 45%, #d7e4e8 100%); }}
-      h1, h2, h3 {{ color: {COLORS["ink"]} !important; letter-spacing: -0.02em; }}
-      [data-testid="stMetric"] {{
-        background: {COLORS["card"]};
-        padding: 1rem 1.1rem;
-        border-radius: 4px;
-        border-left: 3px solid {COLORS["accent"]};
-      }}
-      [data-testid="stMetric"] label {{ color: {COLORS["muted"]} !important; }}
-      .block-container {{ padding-top: 1.4rem; }}
-      section[data-testid="stSidebar"] {{ background: #edf3f1; }}
-      .footnote {{ color: {COLORS["muted"]}; font-size: 0.85rem; }}
+      .stApp { background: #ffffff; }
+      .block-container { padding-top: 1.75rem; padding-bottom: 2rem; max-width: 1100px; }
+      h1 { font-size: 1.75rem !important; font-weight: 650 !important; color: #111827 !important; margin-bottom: 0.25rem !important; }
+      .subtitle { color: #6b7280; font-size: 0.95rem; margin-bottom: 1.5rem; }
+      [data-testid="stMetric"] {
+        background: #f9fafb;
+        border: 1px solid #e5e7eb;
+        padding: 0.9rem 1rem;
+        border-radius: 8px;
+      }
+      [data-testid="stMetricLabel"] { color: #6b7280 !important; font-size: 0.85rem !important; }
+      [data-testid="stMetricValue"] { color: #111827 !important; font-size: 1.6rem !important; }
+      div[data-testid="stHorizontalBlock"] { gap: 0.75rem; }
     </style>
     """,
     unsafe_allow_html=True,
@@ -78,207 +74,158 @@ def run_pipeline(source: str) -> tuple[int, str]:
         capture_output=True,
         text=True,
     )
-    output = (result.stdout or "") + (result.stderr or "")
-    return result.returncode, output
+    return result.returncode, (result.stdout or "") + (result.stderr or "")
+
+
+def clean_chart(fig: go.Figure, height: int = 380) -> go.Figure:
+    fig.update_layout(
+        template="simple_white",
+        paper_bgcolor="white",
+        plot_bgcolor="white",
+        font=dict(color=INK, size=13),
+        title=dict(font=dict(size=15, color=INK), x=0, xanchor="left"),
+        margin=dict(l=8, r=8, t=40, b=8),
+        height=height,
+        legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0),
+    )
+    fig.update_xaxes(showgrid=False, title_font=dict(size=12, color=MUTED), tickfont=dict(size=12))
+    fig.update_yaxes(showgrid=True, gridcolor="#f3f4f6", title_font=dict(size=12, color=MUTED), tickfont=dict(size=12))
+    return fig
 
 
 def main() -> None:
-    st.title("Ontario ER Wait-Time Analytics")
-    st.caption(
-        "Hospital ED wait times · Python/SQL pipeline · data quality checks · Power BI–ready export"
-    )
-
-    with st.sidebar:
-        st.header("Controls")
-        source = st.radio(
-            "Refresh source",
-            options=["csv", "fixed-width"],
-            format_func=lambda x: "CSV export" if x == "csv" else "Fixed-width (SAS path)",
-            index=0,
-        )
-        if st.button("Refresh pipeline", type="primary", use_container_width=True):
-            with st.spinner("Running ETL + quality checks…"):
-                code, output = run_pipeline(source)
-            load_mart.clear()
-            st.code(output, language="text")
-            if code == 0:
-                st.success("Pipeline finished — DQ PASS")
-            else:
-                st.error("Pipeline finished with errors / DQ FAIL")
-
-        if not MART_CSV.exists():
-            st.warning("No processed data yet. Click Refresh pipeline.")
-            return
-
-        df_all = load_mart(MART_CSV.stat().st_mtime)
-        regions = sorted(df_all["oh_region"].dropna().unique())
-        peers = sorted(df_all["peer_group"].dropna().unique())
-        hospitals = sorted(df_all["hospital_name"].dropna().unique())
-
-        selected_regions = st.multiselect("OH region", regions, default=regions)
-        selected_peers = st.multiselect("Peer group", peers, default=peers)
-        selected_hospitals = st.multiselect(
-            "Hospitals",
-            hospitals,
-            default=hospitals,
-        )
-        min_d, max_d = df_all["period_date"].min().date(), df_all["period_date"].max().date()
-        date_range = st.date_input(
-            "Period range",
-            value=(min_d, max_d),
-            min_value=min_d,
-            max_value=max_d,
-        )
-
-    df_all = load_mart(MART_CSV.stat().st_mtime)
-    if isinstance(date_range, tuple) and len(date_range) == 2:
-        start, end = date_range
-    else:
-        start, end = min_d, max_d
-
-    df = df_all[
-        df_all["oh_region"].isin(selected_regions)
-        & df_all["peer_group"].isin(selected_peers)
-        & df_all["hospital_name"].isin(selected_hospitals)
-        & (df_all["period_date"].dt.date >= start)
-        & (df_all["period_date"].dt.date <= end)
-    ].copy()
-
-    if df.empty:
-        st.warning("No rows match the current filters.")
-        return
-
-    latest = df["period_date"].max()
-    snap = df[df["period_date"] == latest]
-
-    avg_wait = weighted_avg(df, "avg_wait_physician_hrs", "volume_physician_assess")
-    pct_within = snap["pct_within_target_low"].mean()
-    over_target = (snap["avg_los_low_urgency_hrs"] > 4).mean()
-    admitted_vs = (snap["avg_los_admitted_hrs"] - 8).mean()
-
-    k1, k2, k3, k4 = st.columns(4)
-    k1.metric("Avg wait to physician", f"{avg_wait:.1f} hrs" if avg_wait is not None else "—")
-    k2.metric("% within target (low urg.)", f"{pct_within:.0f}%" if pd.notna(pct_within) else "—")
-    k3.metric("% sites over 4h target", f"{over_target:.0%}" if pd.notna(over_target) else "—")
-    k4.metric("Admitted LOS vs 8h", f"{admitted_vs:+.1f} hrs" if pd.notna(admitted_vs) else "—")
-
+    st.title("Ontario ER Wait Times")
     st.markdown(
-        f'<p class="footnote">KPIs mirror the DAX measures in <code>powerbi/measures.dax</code> · '
-        f"latest filtered month: <b>{latest.strftime('%b %Y')}</b></p>",
+        '<p class="subtitle">Average wait to see a physician across Ontario hospitals</p>',
         unsafe_allow_html=True,
     )
 
-    c1, c2 = st.columns((1.15, 1))
+    if not MART_CSV.exists():
+        st.warning("No data yet. Expand **Data refresh** below and run the pipeline.")
+    else:
+        df_all = load_mart(MART_CSV.stat().st_mtime)
 
-    with c1:
+        regions = ["All regions"] + sorted(df_all["oh_region"].dropna().unique().tolist())
+        months = sorted(df_all["period_date"].dropna().unique())
+
+        f1, f2 = st.columns(2)
+        with f1:
+            region = st.selectbox("Region", regions, index=0)
+        with f2:
+            month_labels = [pd.Timestamp(m).strftime("%b %Y") for m in months]
+            month_idx = len(months) - 1
+            selected_label = st.selectbox("Month", month_labels, index=month_idx)
+            selected_month = months[month_labels.index(selected_label)]
+
+        df = df_all.copy()
+        if region != "All regions":
+            df = df[df["oh_region"] == region]
+        snap = df[df["period_date"] == selected_month]
+
+        if snap.empty:
+            st.info("No hospitals for this filter.")
+            return
+
+        avg_wait = weighted_avg(snap, "avg_wait_physician_hrs", "volume_physician_assess")
+        pct_within = snap["pct_within_target_low"].mean()
+        over_target = (snap["avg_los_low_urgency_hrs"] > 4).mean()
+
+        k1, k2, k3 = st.columns(3)
+        k1.metric("Avg wait to physician", f"{avg_wait:.1f} hrs" if avg_wait is not None else "—")
+        k2.metric("Seen within target", f"{pct_within:.0f}%" if pd.notna(pct_within) else "—")
+        k3.metric("Hospitals over 4h target", f"{over_target:.0%}" if pd.notna(over_target) else "—")
+
+        st.write("")
+
+        # Trend — one clean line
+        trend_base = df_all if region == "All regions" else df_all[df_all["oh_region"] == region]
         trend = (
-            df.assign(w=df["avg_wait_physician_hrs"] * df["volume_physician_assess"])
+            trend_base.assign(w=trend_base["avg_wait_physician_hrs"] * trend_base["volume_physician_assess"])
             .groupby("period_date", as_index=False)
             .agg(w=("w", "sum"), v=("volume_physician_assess", "sum"))
         )
         trend["avg_wait"] = trend["w"] / trend["v"]
+
         fig_trend = px.line(
             trend,
             x="period_date",
             y="avg_wait",
             markers=True,
-            labels={"period_date": "Month", "avg_wait": "Hours"},
-            title="Provincial / filtered avg wait to physician",
+            labels={"period_date": "", "avg_wait": "Hours"},
+            title="Wait to physician over time",
         )
-        fig_trend.add_hline(y=2.0, line_dash="dash", line_color=COLORS["warn"], annotation_text="2h ref")
-        fig_trend.update_traces(line_color=COLORS["accent"], line_width=2.5)
-        fig_trend.update_layout(
-            paper_bgcolor="rgba(0,0,0,0)",
-            plot_bgcolor="rgba(244,247,246,0.6)",
-            font_color=COLORS["ink"],
-            margin=dict(l=10, r=10, t=48, b=10),
-            height=360,
-        )
-        st.plotly_chart(fig_trend, use_container_width=True)
+        fig_trend.update_traces(line_color=LINE, line_width=2.5, marker=dict(size=7, color=LINE))
+        fig_trend.add_hline(y=2.0, line_dash="dot", line_color="#9ca3af", annotation_text="2 hr reference")
+        st.plotly_chart(clean_chart(fig_trend, 340), use_container_width=True)
 
-    with c2:
-        by_region = (
-            snap.groupby("oh_region", as_index=False)
-            .agg(pct_within=("pct_within_target_low", "mean"))
-            .sort_values("pct_within")
+        # Hospital ranking — single color, readable labels
+        by_hosp = (
+            snap.dropna(subset=["avg_wait_physician_hrs"])
+            .sort_values("avg_wait_physician_hrs", ascending=True)
         )
-        fig_region = px.bar(
-            by_region,
-            x="oh_region",
-            y="pct_within",
-            labels={"oh_region": "Region", "pct_within": "% within target"},
-            title="% within low-urgency target by region (latest)",
+        fig_hosp = px.bar(
+            by_hosp,
+            x="avg_wait_physician_hrs",
+            y="hospital_name",
+            orientation="h",
+            labels={"avg_wait_physician_hrs": "Hours", "hospital_name": ""},
+            title=f"Wait to physician by hospital — {selected_label}",
+            text="avg_wait_physician_hrs",
         )
-        fig_region.update_traces(marker_color=COLORS["accent2"])
-        fig_region.update_layout(
-            paper_bgcolor="rgba(0,0,0,0)",
-            plot_bgcolor="rgba(244,247,246,0.6)",
-            font_color=COLORS["ink"],
-            margin=dict(l=10, r=10, t=48, b=10),
-            height=360,
-            yaxis_range=[0, 100],
+        fig_hosp.update_traces(
+            marker_color=BAR,
+            texttemplate="%{text:.1f}",
+            textposition="outside",
+            cliponaxis=False,
         )
-        st.plotly_chart(fig_region, use_container_width=True)
+        height = max(360, 28 * len(by_hosp) + 80)
+        st.plotly_chart(clean_chart(fig_hosp, height), use_container_width=True)
 
-    by_hosp = (
-        snap.dropna(subset=["avg_wait_physician_hrs"])
-        .sort_values("avg_wait_physician_hrs", ascending=True)
-        .tail(15)
-    )
-    fig_hosp = px.bar(
-        by_hosp,
-        x="avg_wait_physician_hrs",
-        y="hospital_name",
-        orientation="h",
-        color="oh_region",
-        labels={
-            "avg_wait_physician_hrs": "Hours",
-            "hospital_name": "Hospital",
-            "oh_region": "Region",
-        },
-        title="Wait to physician by hospital (latest month)",
-        color_discrete_sequence=[COLORS["accent"], COLORS["accent2"], COLORS["warn"], "#3d7c6e", "#6b8f71"],
-    )
-    fig_hosp.update_layout(
-        paper_bgcolor="rgba(0,0,0,0)",
-        plot_bgcolor="rgba(244,247,246,0.6)",
-        font_color=COLORS["ink"],
-        margin=dict(l=10, r=10, t=48, b=10),
-        height=480,
-        legend_title_text="Region",
-    )
-    st.plotly_chart(fig_hosp, use_container_width=True)
+        with st.expander("View data table"):
+            table = snap[
+                [
+                    "hospital_name",
+                    "oh_region",
+                    "avg_wait_physician_hrs",
+                    "avg_los_low_urgency_hrs",
+                    "pct_within_target_low",
+                    "volume_physician_assess",
+                ]
+            ].rename(
+                columns={
+                    "hospital_name": "Hospital",
+                    "oh_region": "Region",
+                    "avg_wait_physician_hrs": "Wait (hrs)",
+                    "avg_los_low_urgency_hrs": "Low-urgency LOS (hrs)",
+                    "pct_within_target_low": "% within target",
+                    "volume_physician_assess": "Volume",
+                }
+            ).sort_values("Wait (hrs)", ascending=False)
+            st.dataframe(table, use_container_width=True, hide_index=True)
 
-    tab_data, tab_dq = st.tabs(["Filtered data", "Data quality report"])
-    with tab_data:
-        show_cols = [
-            "period_date",
-            "hospital_name",
-            "oh_region",
-            "peer_group",
-            "avg_wait_physician_hrs",
-            "avg_los_low_urgency_hrs",
-            "avg_los_high_urgency_hrs",
-            "avg_los_admitted_hrs",
-            "pct_within_target_low",
-            "volume_physician_assess",
-        ]
-        st.dataframe(
-            df[show_cols].sort_values(["period_date", "hospital_name"], ascending=[False, True]),
-            use_container_width=True,
-            hide_index=True,
+        with st.expander("Data quality report"):
+            if DQ_REPORT.exists():
+                st.code(DQ_REPORT.read_text(encoding="utf-8"), language="text")
+            else:
+                st.write("No report yet.")
+
+    with st.expander("Data refresh"):
+        source = st.radio(
+            "Source",
+            options=["csv", "fixed-width"],
+            format_func=lambda x: "CSV" if x == "csv" else "Fixed-width",
+            horizontal=True,
         )
-    with tab_dq:
-        if DQ_REPORT.exists():
-            st.code(DQ_REPORT.read_text(encoding="utf-8"), language="text")
-        else:
-            st.info("No DQ report yet — run the pipeline.")
-
-    st.markdown(
-        '<p class="footnote">Demo data calibrated to Ontario Health / CIHI-style ED reporting. '
-        "Not for clinical use. Power BI build guide: <code>powerbi/DASHBOARD_BUILD.md</code></p>",
-        unsafe_allow_html=True,
-    )
+        if st.button("Run pipeline"):
+            with st.spinner("Refreshing…"):
+                code, output = run_pipeline(source)
+            load_mart.clear()
+            if code == 0:
+                st.success("Refresh complete")
+                st.rerun()
+            else:
+                st.error("Refresh failed")
+                st.code(output)
 
 
 if __name__ == "__main__":
