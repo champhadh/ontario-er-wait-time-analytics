@@ -51,9 +51,13 @@ INDICATORS = [
     ("LOS_ADMITTED", 8.0, 14.2, 900),
 ]
 
-# 18 months: Jul 2024 – Dec 2025
+# Jul 2024 – Jul 2026 (through present reporting month)
 PERIODS = []
-for y, months in [(2024, range(7, 13)), (2025, range(1, 13))]:
+for y, months in [
+    (2024, range(7, 13)),
+    (2025, range(1, 13)),
+    (2026, range(1, 8)),  # Jan–Jul 2026
+]:
     for m in months:
         PERIODS.append(f"{y}{m:02d}")
 

@@ -22,7 +22,7 @@ DQ_REPORT = ROOT / "reports" / "data_quality_report.txt"
 PIPELINE = ROOT / "etl" / "run_pipeline.py"
 
 INK = "#111827"
-MUTED = "#6b7280"
+MUTED = "#374151"
 LINE = "#111827"
 BAR = "#1f4e5f"
 
@@ -35,18 +35,32 @@ st.set_page_config(
 st.markdown(
     """
     <style>
-      .stApp { background: #ffffff; }
+      .stApp { background: #ffffff; color: #111827; }
       .block-container { padding-top: 1.75rem; padding-bottom: 2rem; max-width: 1100px; }
-      h1 { font-size: 1.75rem !important; font-weight: 650 !important; color: #111827 !important; margin-bottom: 0.25rem !important; }
-      .subtitle { color: #6b7280; font-size: 0.95rem; margin-bottom: 1.5rem; }
+      h1 {
+        font-size: 1.85rem !important;
+        font-weight: 700 !important;
+        color: #111827 !important;
+        margin-bottom: 0.2rem !important;
+      }
+      .subtitle { color: #374151; font-size: 1rem; margin-bottom: 1.4rem; }
+      label, .stSelectbox label { color: #111827 !important; font-weight: 600 !important; }
       [data-testid="stMetric"] {
-        background: #f9fafb;
-        border: 1px solid #e5e7eb;
-        padding: 0.9rem 1rem;
+        background: #f3f4f6;
+        border: 1px solid #d1d5db;
+        padding: 1rem 1.1rem;
         border-radius: 8px;
       }
-      [data-testid="stMetricLabel"] { color: #6b7280 !important; font-size: 0.85rem !important; }
-      [data-testid="stMetricValue"] { color: #111827 !important; font-size: 1.6rem !important; }
+      [data-testid="stMetricLabel"] p {
+        color: #111827 !important;
+        font-size: 0.95rem !important;
+        font-weight: 600 !important;
+      }
+      [data-testid="stMetricValue"] {
+        color: #111827 !important;
+        font-size: 1.75rem !important;
+        font-weight: 700 !important;
+      }
       div[data-testid="stHorizontalBlock"] { gap: 0.75rem; }
     </style>
     """,
@@ -77,26 +91,38 @@ def run_pipeline(source: str) -> tuple[int, str]:
     return result.returncode, (result.stdout or "") + (result.stderr or "")
 
 
-def clean_chart(fig: go.Figure, height: int = 380) -> go.Figure:
+def clean_chart(fig: go.Figure, height: int = 380, left_margin: int = 16) -> go.Figure:
     fig.update_layout(
-        template="simple_white",
+        template="plotly_white",
         paper_bgcolor="white",
         plot_bgcolor="white",
-        font=dict(color=INK, size=13),
-        title=dict(font=dict(size=15, color=INK), x=0, xanchor="left"),
-        margin=dict(l=8, r=8, t=40, b=8),
+        font=dict(color=INK, size=14),
+        title=dict(font=dict(size=17, color=INK, family="Arial"), x=0, xanchor="left"),
+        margin=dict(l=left_margin, r=40, t=48, b=40),
         height=height,
-        legend=dict(orientation="h", yanchor="bottom", y=1.02, x=0),
+        showlegend=False,
     )
-    fig.update_xaxes(showgrid=False, title_font=dict(size=12, color=MUTED), tickfont=dict(size=12))
-    fig.update_yaxes(showgrid=True, gridcolor="#f3f4f6", title_font=dict(size=12, color=MUTED), tickfont=dict(size=12))
+    fig.update_xaxes(
+        showgrid=False,
+        title_font=dict(size=13, color=INK),
+        tickfont=dict(size=13, color=INK),
+        linecolor="#9ca3af",
+        ticks="outside",
+    )
+    fig.update_yaxes(
+        showgrid=True,
+        gridcolor="#e5e7eb",
+        title_font=dict(size=13, color=INK),
+        tickfont=dict(size=13, color=INK),
+        linecolor="#9ca3af",
+    )
     return fig
 
 
 def main() -> None:
     st.title("Ontario ER Wait Times")
     st.markdown(
-        '<p class="subtitle">Average wait to see a physician across Ontario hospitals</p>',
+        '<p class="subtitle">Average wait to see a physician · Jul 2024 to Jul 2026</p>',
         unsafe_allow_html=True,
     )
 
@@ -137,7 +163,6 @@ def main() -> None:
 
         st.write("")
 
-        # Trend — one clean line
         trend_base = df_all if region == "All regions" else df_all[df_all["oh_region"] == region]
         trend = (
             trend_base.assign(w=trend_base["avg_wait_physician_hrs"] * trend_base["volume_physician_assess"])
@@ -154,11 +179,21 @@ def main() -> None:
             labels={"period_date": "", "avg_wait": "Hours"},
             title="Wait to physician over time",
         )
-        fig_trend.update_traces(line_color=LINE, line_width=2.5, marker=dict(size=7, color=LINE))
-        fig_trend.add_hline(y=2.0, line_dash="dot", line_color="#9ca3af", annotation_text="2 hr reference")
-        st.plotly_chart(clean_chart(fig_trend, 340), use_container_width=True)
+        fig_trend.update_traces(line_color=LINE, line_width=3, marker=dict(size=8, color=LINE))
+        fig_trend.add_hline(
+            y=2.0,
+            line_dash="dot",
+            line_color="#4b5563",
+            annotation_text="2 hr reference",
+            annotation_font=dict(size=12, color=INK),
+        )
+        fig_trend.update_xaxes(dtick="M3", tickformat="%b %Y")
+        st.plotly_chart(
+            clean_chart(fig_trend, 360),
+            use_container_width=True,
+            config={"displayModeBar": False},
+        )
 
-        # Hospital ranking — single color, readable labels
         by_hosp = (
             snap.dropna(subset=["avg_wait_physician_hrs"])
             .sort_values("avg_wait_physician_hrs", ascending=True)
@@ -176,10 +211,16 @@ def main() -> None:
             marker_color=BAR,
             texttemplate="%{text:.1f}",
             textposition="outside",
+            textfont=dict(size=13, color=INK),
             cliponaxis=False,
         )
-        height = max(360, 28 * len(by_hosp) + 80)
-        st.plotly_chart(clean_chart(fig_hosp, height), use_container_width=True)
+        fig_hosp.update_yaxes(tickfont=dict(size=14, color=INK))
+        height = max(420, 32 * len(by_hosp) + 90)
+        st.plotly_chart(
+            clean_chart(fig_hosp, height, left_margin=8),
+            use_container_width=True,
+            config={"displayModeBar": False},
+        )
 
         with st.expander("View data table"):
             table = snap[
