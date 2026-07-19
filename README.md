@@ -36,6 +36,9 @@ python etl/run_pipeline.py
 # Optional: same pipeline from fixed-width legacy file (SAS conversion path)
 python etl/run_pipeline.py --source fixed-width
 
+# Local GUI dashboard (filters, KPIs, charts, pipeline refresh)
+streamlit run app.py
+
 # Static dashboard preview image for README
 python scripts/render_dashboard_preview.py
 ```
@@ -60,6 +63,7 @@ To use a live export: download CSV from the Ontario Health portal and replace `d
 ## Repo map
 
 ```
+app.py                       # Streamlit GUI dashboard
 etl/run_pipeline.py          # one-command automation
 etl/convert_fixed_width.py   # fixed-width → CSV
 sql/transforms.sql           # dims, fact, mart
@@ -69,6 +73,14 @@ sas/CONVERSION.md            # SAS → Python/SQL mapping
 powerbi/measures.dax         # DAX measures
 powerbi/DASHBOARD_BUILD.md   # 4-visual build guide
 ```
+
+## Local GUI
+
+```bash
+streamlit run app.py
+```
+
+Opens an interactive dashboard with region/hospital filters, the same KPI logic as the DAX measures, trend + hospital charts, the DQ report, and a **Refresh pipeline** button.
 
 ## Power BI + DAX
 
